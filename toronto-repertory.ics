@@ -3,654 +3,10 @@ VERSION:2.0
 PRODID:-//Cedric Marzipan Repertory Surveillance Network//EN
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Toronto Repertory Calendar
-X-WR-CALDESC:Automated repertory cinema listings. Event end times are calculated as listed runtime plus 15 minutes. Please double-check theatre listings before making plans. Created by Cedric Marzipan. Last generated: 2026-07-07, 10:05:40 a.m..
-BEGIN:VEVENT
-UID:RevueCinemaHollywoodSuitesMovieMadnessGENTLEMENPREFERBLONDESJuly6700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260706T230000Z
-DTEND:20260707T004600Z
-SUMMARY:🍿 REV — Hollywood Suite's Movie Madness: GENTLEMEN PREFER BLONDES
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/hollywood-suites-movie-madness-gentlemen-prefer-blondes/
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaSTOPTHATTRAINJuly6930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T013000Z
-DTEND:20260707T031700Z
-SUMMARY:🍿 REV — STOP! THAT! TRAIN!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/stop-that-train/
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatrePressureJuly7400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T200000Z
-DTEND:20260707T215500Z
-SUMMARY:🦊 FOX — Pressure
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxCoutureJul7600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T220000Z
-DTEND:20260708T000100Z
-SUMMARY:🧊 TIF — Couture
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
-URL:https://tiff.net/events/couture
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaRevueFilmSocietySERENITY2005July7630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T223000Z
-DTEND:20260708T004400Z
-SUMMARY:🍿 REV — Revue Film Society: SERENITY (2005)
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/revue-film-society-serenity-2005/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxSalaamBombaywithCameronBaileyJul7630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T223000Z
-DTEND:20260708T010000Z
-SUMMARY:🧊 TIF — Salaam Bombay!\, with Cameron Bailey
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / From the Collection
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatreAntiDivaTheCarolePopeConfessionsJul7630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T223000Z
-DTEND:20260708T001400Z
-SUMMARY:🌴 PAR — AntiDiva: The Carole Pope Confessions
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Michelle Mama\nTickets: https://paradiseonbloor.com/purchase/568718/
-URL:https://paradiseonbloor.com/movies/antidiva-the-carole-pope-confessions/
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreTheSheepDetectivesJuly7640PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T224000Z
-DTEND:20260708T004400Z
-SUMMARY:🦊 FOX — The Sheep Detectives
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxMaddiesSecretJul7645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T224500Z
-DTEND:20260708T003800Z
-SUMMARY:🧊 TIF — Maddie's Secret
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: John Early
-URL:https://tiff.net/events/maddies-secret
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul7700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T230000Z
-DTEND:20260708T013000Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxBouchraJul7730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260707T233000Z
-DTEND:20260708T010800Z
-SUMMARY:🧊 TIF — Bouchra
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Orian Barki\, Meriem Bennani
-URL:https://tiff.net/events/bouchra
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeviticusJul7830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T003000Z
-DTEND:20260708T021200Z
-SUMMARY:🧊 TIF — Leviticus
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
-URL:https://tiff.net/events/leviticus
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreAScannerDarklyJuly7920PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T012000Z
-DTEND:20260708T031500Z
-SUMMARY:🦊 FOX — A Scanner Darkly
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, Drawn In
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaSTOPTHATTRAINJuly7930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T013000Z
-DTEND:20260708T031700Z
-SUMMARY:🍿 REV — STOP! THAT! TRAIN!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/stop-that-train/
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreTheSheepDetectivesJuly8340PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T194000Z
-DTEND:20260708T214400Z
-SUMMARY:🦊 FOX — The Sheep Detectives
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeviticusJul8345PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T194500Z
-DTEND:20260708T212700Z
-SUMMARY:🧊 TIF — Leviticus
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
-URL:https://tiff.net/events/leviticus
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul8350PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T195000Z
-DTEND:20260708T222000Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxCoutureJul8415PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T201500Z
-DTEND:20260708T221600Z
-SUMMARY:🧊 TIF — Couture
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
-URL:https://tiff.net/events/couture
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxBouchraJul8445PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T204500Z
-DTEND:20260708T222300Z
-SUMMARY:🧊 TIF — Bouchra
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Orian Barki\, Meriem Bennani
-URL:https://tiff.net/events/bouchra
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatreTwoSeasonsTwoStrangersJul8600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T220000Z
-DTEND:20260708T234400Z
-SUMMARY:🌴 PAR — Two Seasons\, Two Strangers
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Sho Miyake\nTickets: https://paradiseonbloor.com/purchase/576416/
-URL:https://paradiseonbloor.com/movies/two-seasons-two-strangers/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxMaddiesSecretJul8615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T221500Z
-DTEND:20260709T000800Z
-SUMMARY:🧊 TIF — Maddie's Secret
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: John Early
-URL:https://tiff.net/events/maddies-secret
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaHeatWaveLIONSLOVEANDLIESIntroducedbySaffronMaeveJuly8630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T223000Z
-DTEND:20260709T003500Z
-SUMMARY:🍿 REV — Heat Wave: LIONS LOVE (...AND LIES) - Introduced by Saffron Maeve!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/heat-wave-lions-love-and-lies-introduced-by-saffron-maeve/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxIlpianetaazzurrowithDylanAdamsonJul8630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T223000Z
-DTEND:20260709T010000Z
-SUMMARY:🧊 TIF — Il pianeta azzurro with Dylan Adamson
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / TIFF Wavelengths Presents
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatrePeterAsherEverywhereManJuly8630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T223000Z
-DTEND:20260709T004300Z
-SUMMARY:🦊 FOX — Peter Asher: Everywhere Man
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxRomeraJul8645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T224500Z
-DTEND:20260709T005400Z
-SUMMARY:🧊 TIF — Romería
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
-URL:https://tiff.net/events/romeria
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxBouchraJul8700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T230000Z
-DTEND:20260709T003800Z
-SUMMARY:🧊 TIF — Bouchra
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Orian Barki\, Meriem Bennani
-URL:https://tiff.net/events/bouchra
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGuestAttendingJul8730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260708T233000Z
-DTEND:20260709T020000Z
-SUMMARY:🧊 TIF — Guest Attending
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: The Big Picture: Live from TIFF Lightbox
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatreMikeyandNicky50thAnniversaryJul8830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T003000Z
-DTEND:20260709T023100Z
-SUMMARY:🌴 PAR — Mikey and Nicky: 50th Anniversary!
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nDirector: Elaine May\nTickets: https://paradiseonbloor.com/purchase/573942/
-URL:https://paradiseonbloor.com/movies/mikey-and-nicky-50th-anniversary/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul8845PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T004500Z
-DTEND:20260709T031500Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxALeagueofTheirOwnJul8900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T010000Z
-DTEND:20260709T033000Z
-SUMMARY:🧊 TIF — A League of Their Own
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Penny Marshall
-URL:https://tiff.net/events/a-league-of-their-own
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxMaddiesSecretJul8915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T011500Z
-DTEND:20260709T030800Z
-SUMMARY:🧊 TIF — Maddie's Secret
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: John Early
-URL:https://tiff.net/events/maddies-secret
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaRevueEventLUCIDWithDirectorsInAttendanceJuly8930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T013000Z
-DTEND:20260709T033400Z
-SUMMARY:🍿 REV — Revue Event: LUCID - With Directors In Attendance!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/revue-event-lucid-with-directors-in-attendance/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxCoutureJul8930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T013000Z
-DTEND:20260709T033100Z
-SUMMARY:🧊 TIF — Couture
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
-URL:https://tiff.net/events/couture
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreFridaythe13thTheFinalChapterJuly8930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T013000Z
-DTEND:20260709T031600Z
-SUMMARY:🦊 FOX — Friday the 13th: The Final Chapter
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, Summer Camp Cinema
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeviticusJul8945PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T014500Z
-DTEND:20260709T032700Z
-SUMMARY:🧊 TIF — Leviticus
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
-URL:https://tiff.net/events/leviticus
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatrePeterAsherEverywhereManJuly9300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T190000Z
-DTEND:20260709T211300Z
-SUMMARY:🦊 FOX — Peter Asher: Everywhere Man
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeviticusJul9345PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T194500Z
-DTEND:20260709T212700Z
-SUMMARY:🧊 TIF — Leviticus
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
-URL:https://tiff.net/events/leviticus
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxBouchraJul9400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T200000Z
-DTEND:20260709T213800Z
-SUMMARY:🧊 TIF — Bouchra
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Orian Barki\, Meriem Bennani
-URL:https://tiff.net/events/bouchra
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxCoutureJul9415PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T201500Z
-DTEND:20260709T221600Z
-SUMMARY:🧊 TIF — Couture
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
-URL:https://tiff.net/events/couture
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul9430PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T203000Z
-DTEND:20260709T230000Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxBouchraJul9615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T221500Z
-DTEND:20260709T235300Z
-SUMMARY:🧊 TIF — Bouchra
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Orian Barki\, Meriem Bennani
-URL:https://tiff.net/events/bouchra
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatreSilentRunningJul9615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T221500Z
-DTEND:20260709T235900Z
-SUMMARY:🌴 PAR — Silent Running
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: Odysseys and Oddities\nDirector: Douglas Trumbull\nTickets: https://paradiseonbloor.com/purchase/569098/
-URL:https://paradiseonbloor.com/movies/silent-running/
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreTheBigLebowskiJuly9630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T223000Z
-DTEND:20260710T004200Z
-SUMMARY:🦊 FOX — The Big Lebowski
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaDesigningTheMoviesLETTYLYNTON1932NewRestorationJuly9645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T224500Z
-DTEND:20260710T002400Z
-SUMMARY:🍿 REV — Designing The Movies: LETTY LYNTON (1932) - New Restoration!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/designing-the-movies-letty-lynton-1932-new-restoration/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul9645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T224500Z
-DTEND:20260710T011500Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxTenet70mmwithSeanFennesseyandAmandaDobbinsJul9700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T230000Z
-DTEND:20260710T013000Z
-SUMMARY:🧊 TIF — Tenet (70mm) with Sean Fennessey and Amanda Dobbins
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeviticusJul9715PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260709T231500Z
-DTEND:20260710T005700Z
-SUMMARY:🧊 TIF — Leviticus
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
-URL:https://tiff.net/events/leviticus
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeninJul9830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T003000Z
-DTEND:20260710T031200Z
-SUMMARY:🧊 TIF — Lenin
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Murali Kishor Abburu
-URL:https://tiff.net/events/lenin
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatrePortaltoHellTorontoPremiereJul9900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T010000Z
-DTEND:20260710T024800Z
-SUMMARY:🌴 PAR — Portal to Hell: Toronto Premiere!
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Woody Bess\nTickets: https://paradiseonbloor.com/purchase/573952/
-URL:https://paradiseonbloor.com/movies/portal-to-hell/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGirlsLikeGirlsJul9915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T011500Z
-DTEND:20260710T034500Z
-SUMMARY:🧊 TIF — Girls Like Girls
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Hayley Kiyoko
-URL:https://tiff.net/events/girls-like-girls
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaNightmareAlleyTHEVANISHING1988July9930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T013000Z
-DTEND:20260710T033100Z
-SUMMARY:🍿 REV — Nightmare Alley: THE VANISHING (1988)
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/nightmare-alley-the-vanishing-1988/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxMaddiesSecretJul9930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T013000Z
-DTEND:20260710T032300Z
-SUMMARY:🧊 TIF — Maddie's Secret
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: John Early
-URL:https://tiff.net/events/maddies-secret
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreLeviticusJuly9930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T013000Z
-DTEND:20260710T031300Z
-SUMMARY:🦊 FOX — Leviticus
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul10200PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T180000Z
-DTEND:20260710T194800Z
-SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: David Wain
-URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreTheInviteJuly10400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T200000Z
-DTEND:20260710T220300Z
-SUMMARY:🦊 FOX — The Invite
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul10415PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T201500Z
-DTEND:20260710T220300Z
-SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: David Wain
-URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaRevueEventSONOFSARAWithDirectorSpecialGuestsinattendanceJuly10630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T223000Z
-DTEND:20260711T001000Z
-SUMMARY:🍿 REV — Revue Event: SON OF SARA - With Director & Special Guests in attendance!
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/revue-event-son-of-sara-with-director-special-guests-in-attendance/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxMementoJul10630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T223000Z
-DTEND:20260711T003800Z
-SUMMARY:🧊 TIF — Memento
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Christopher Nolan
-URL:https://tiff.net/events/memento
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxDrunkenNoodlesJul10645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T224500Z
-DTEND:20260711T002300Z
-SUMMARY:🧊 TIF — Drunken Noodles
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Lucio Castro
-URL:https://tiff.net/events/drunken-noodles
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreTheInviteJuly10645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T224500Z
-DTEND:20260711T004800Z
-SUMMARY:🦊 FOX — The Invite
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul10700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T230000Z
-DTEND:20260711T004800Z
-SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: David Wain
-URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
-END:VEVENT
-BEGIN:VEVENT
-UID:ParadiseTheatreTracyandMartinaGoinOutWestJul10700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260710T230000Z
-DTEND:20260711T004500Z
-SUMMARY:🌴 PAR — Tracy and Martina: Goin’ Out West
-LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: Drag Me To The Movies\nDirector: Brendan Langelle Lyle\nTickets: https://paradiseonbloor.com/purchase/541305/
-URL:https://paradiseonbloor.com/movies/tracy-and-martina-goin-out-west/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxLeninJul10815PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260711T001500Z
-DTEND:20260711T025700Z
-SUMMARY:🧊 TIF — Lenin
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: Murali Kishor Abburu
-URL:https://tiff.net/events/lenin
-END:VEVENT
-BEGIN:VEVENT
-UID:RevueCinemaDrunkenCinemaTIMECOP1994July10930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260711T013000Z
-DTEND:20260711T032300Z
-SUMMARY:🍿 REV — Drunken Cinema: TIMECOP (1994)
-LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
-DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/drunken-cinema-timecop-1994/
-END:VEVENT
-BEGIN:VEVENT
-UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul10930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260711T013000Z
-DTEND:20260711T031800Z
-SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
-LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nDirector: David Wain
-URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
-END:VEVENT
-BEGIN:VEVENT
-UID:FoxTheatreGummoJuly10930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260711T013000Z
-DTEND:20260711T031400Z
-SUMMARY:🦊 FOX — Gummo
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, Detour
-END:VEVENT
+X-WR-CALDESC:Automated repertory cinema listings. Event end times are calculated as listed runtime plus 15 minutes. Please double-check theatre listings before making plans. Created by Cedric Marzipan. Last generated: 2026-07-11, 2:25:32 p.m..
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventMOCKBUSTERTorontoTheatricalPremiereJuly111230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T163000Z
 DTEND:20260711T181500Z
 SUMMARY:🍿 REV — Revue Event: MOCKBUSTER - Toronto Theatrical Premiere!
@@ -660,7 +16,7 @@ URL:https://revuecinema.ca/films/revue-event-mockbuster-toronto-theatrical-premi
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul111230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T163000Z
 DTEND:20260711T181800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -670,7 +26,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly111245PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T164500Z
 DTEND:20260711T184800Z
 SUMMARY:🦊 FOX — The Invite
@@ -679,7 +35,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxRelaxedScreeningTheBobsBurgersMovieJul11100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T170000Z
 DTEND:20260711T185700Z
 SUMMARY:🧊 TIF — Relaxed Screening: The Bob's Burgers Movie
@@ -688,8 +44,18 @@ DESCRIPTION:TIFF Lightbox
 URL:https://tiff.net/events/relaxed-screening-the-bobs-burgers-movie
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul11130PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T173000Z
+DTEND:20260711T191200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateTheMidnightRevueNirvannatheBandtheShowtheMovieJuly11300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T190000Z
 DTEND:20260711T205700Z
 SUMMARY:🍿 REV — The Perfect Date & The Midnight Revue: Nirvanna the Band the Show the Movie
@@ -698,8 +64,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/national-canadian-film-day-revue-events-nirvanna-the-band-the-show-the-movie-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul11300PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T190000Z
+DTEND:20260711T210100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreRomeraJul11300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T190000Z
 DTEND:20260711T210700Z
 SUMMARY:🌴 PAR — Romería
@@ -709,7 +85,7 @@ URL:https://paradiseonbloor.com/movies/romeria/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul11330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T193000Z
 DTEND:20260711T211800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -719,7 +95,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreLeChantdesfortsWhispersintheWoodsJuly11330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T193000Z
 DTEND:20260711T211800Z
 SUMMARY:🦊 FOX — Le Chant des forêts (Whispers in the Woods)
@@ -728,7 +104,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxFollowingwithAdamNaymanJul11400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T200000Z
 DTEND:20260711T223000Z
 SUMMARY:🧊 TIF — Following with Adam Nayman
@@ -736,8 +112,28 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul11430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T203000Z
+DTEND:20260711T221200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul11600PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T220000Z
+DTEND:20260712T000100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreSolarisJul11600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T220000Z
 DTEND:20260712T010200Z
 SUMMARY:🌴 PAR — Solaris
@@ -746,17 +142,28 @@ DESCRIPTION:Paradise Theatre\nSeries: Odysseys and Oddities\nDirector: Andrei Ta
 URL:https://paradiseonbloor.com/movies/solaris/
 END:VEVENT
 BEGIN:VEVENT
-UID:TIFFLightboxMachoDancerwithrecordedintrobyLavDiazJul11630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260711T223000Z
-DTEND:20260712T010000Z
-SUMMARY:🧊 TIF — Macho Dancer with recorded intro by Lav Diaz
+UID:TIFFLightboxLeviticusJul11615PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T221500Z
+DTEND:20260711T235700Z
+SUMMARY:🧊 TIF — Leviticus
 LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / TIFF Cinematheque New and Restored
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxMachoDancerJul11630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T223000Z
+DTEND:20260712T005800Z
+SUMMARY:🧊 TIF — Macho Dancer
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Lino Brocka
+URL:https://tiff.net/events/macho-dancer
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHEHANGOVERJuly11645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T224500Z
 DTEND:20260712T004000Z
 SUMMARY:🍿 REV — Revue Event: THE HANGOVER
@@ -766,7 +173,7 @@ URL:https://revuecinema.ca/films/revue-event-the-hangover/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul11645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T224500Z
 DTEND:20260712T003300Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -776,7 +183,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly11645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260711T224500Z
 DTEND:20260712T004800Z
 SUMMARY:🦊 FOX — The Invite
@@ -784,8 +191,38 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul11700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260711T230000Z
+DTEND:20260712T010900Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul11830PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T003000Z
+DTEND:20260712T021200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxDrunkenNoodlesJul11845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T004500Z
+DTEND:20260712T022300Z
+SUMMARY:🧊 TIF — Drunken Noodles
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Lucio Castro
+URL:https://tiff.net/events/drunken-noodles
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul11915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T011500Z
 DTEND:20260712T030300Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -795,7 +232,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSonofSarawithDirectorQAJuly11915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T011500Z
 DTEND:20260712T025500Z
 SUMMARY:🦊 FOX — Son of Sara with Director Q&A
@@ -804,7 +241,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateTheMidnightRevueNirvannatheBandtheShowtheMovieJuly11930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T013000Z
 DTEND:20260712T032700Z
 SUMMARY:🍿 REV — The Perfect Date & The Midnight Revue: Nirvanna the Band the Show the Movie
@@ -813,8 +250,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/national-canadian-film-day-revue-events-nirvanna-the-band-the-show-the-movie-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul11945PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T014500Z
+DTEND:20260712T032700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventMOCKBUSTERTorontoTheatricalPremiereJuly121230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T163000Z
 DTEND:20260712T181500Z
 SUMMARY:🍿 REV — Revue Event: MOCKBUSTER - Toronto Theatrical Premiere!
@@ -824,7 +271,7 @@ URL:https://revuecinema.ca/films/revue-event-mockbuster-toronto-theatrical-premi
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxIntroductiontoFilmFormatsJul121230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T163000Z
 DTEND:20260712T190000Z
 SUMMARY:🧊 TIF — Introduction to Film Formats
@@ -832,8 +279,18 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul121245PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T164500Z
+DTEND:20260712T182700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul12100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T170000Z
 DTEND:20260712T184800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -843,7 +300,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly12100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T170000Z
 DTEND:20260712T190300Z
 SUMMARY:🦊 FOX — The Invite
@@ -852,7 +309,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreDoubleFeatureLolaTheUmbrellasofCherbourgJul12130PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T173000Z
 DTEND:20260712T210100Z
 SUMMARY:🌴 PAR — Double Feature: Lola & The Umbrellas of Cherbourg
@@ -861,8 +318,18 @@ DESCRIPTION:Paradise Theatre\nSeries: Toronto Film Society\nTickets: https://par
 URL:https://paradiseonbloor.com/programs/double-feature-lola-the-umbrellas-of-cherbourg/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul12200PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T180000Z
+DTEND:20260712T200100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxLeninJul12230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T183000Z
 DTEND:20260712T211200Z
 SUMMARY:🧊 TIF — Lenin
@@ -872,7 +339,7 @@ URL:https://tiff.net/events/lenin
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventGODZILLAVSHEDORAH55thAnniversaryScreeningJuly12300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T190000Z
 DTEND:20260712T204000Z
 SUMMARY:🍿 REV — Revue Event: GODZILLA VS. HEDORAH - 55th Anniversary Screening!
@@ -882,7 +349,7 @@ URL:https://revuecinema.ca/films/revue-event-godzilla-vs-hedorah-55th-anniversar
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxOppenheimer70mmJul12300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T190000Z
 DTEND:20260712T213000Z
 SUMMARY:🧊 TIF — Oppenheimer (70mm)
@@ -890,8 +357,18 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul12345PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T194500Z
+DTEND:20260712T212700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly12345PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T194500Z
 DTEND:20260712T214800Z
 SUMMARY:🦊 FOX — The Invite
@@ -900,7 +377,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul12400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T200000Z
 DTEND:20260712T214800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -909,8 +386,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul12430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T203000Z
+DTEND:20260712T223900Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaStaffPickOfTheMonthROTTINGINTHESUN2023July12600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T220000Z
 DTEND:20260713T000600Z
 SUMMARY:🍿 REV — Staff Pick Of The Month: ROTTING IN THE SUN (2023)
@@ -920,7 +407,7 @@ URL:https://revuecinema.ca/films/staff-pick-of-the-month-rotting-in-the-sun-2023
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreIShotAndyWarhol4KRestorationJul12615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T221500Z
 DTEND:20260713T001300Z
 SUMMARY:🌴 PAR — I Shot Andy Warhol: 4K Restoration!
@@ -930,7 +417,7 @@ URL:https://paradiseonbloor.com/movies/i-shot-andy-warhol-4k-restoration/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxDrunkenNoodlesJul12630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T223000Z
 DTEND:20260713T000800Z
 SUMMARY:🧊 TIF — Drunken Noodles
@@ -939,8 +426,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: Lucio Castro
 URL:https://tiff.net/events/drunken-noodles
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul12645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T224500Z
+DTEND:20260713T002700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGendernautsJul12700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T230000Z
 DTEND:20260713T004200Z
 SUMMARY:🧊 TIF — Gendernauts
@@ -950,7 +447,7 @@ URL:https://tiff.net/events/gendernauts
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul12710PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260712T231000Z
 DTEND:20260713T005800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -959,8 +456,38 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul12730PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260712T233000Z
+DTEND:20260713T013100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul12845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260713T004500Z
+DTEND:20260713T025400Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul12900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260713T010000Z
+DTEND:20260713T024200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul12930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260713T013000Z
 DTEND:20260713T031800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -970,7 +497,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly13315PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260713T191500Z
 DTEND:20260713T211800Z
 SUMMARY:🦊 FOX — The Invite
@@ -978,10 +505,10 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
-UID:ParadiseTheatreRomeraJul13500PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260713T210000Z
-DTEND:20260713T230700Z
+UID:ParadiseTheatreRomeraJul13600PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260713T220000Z
+DTEND:20260714T000700Z
 SUMMARY:🌴 PAR — Romería
 LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
 DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Carla Simón\nTickets: https://paradiseonbloor.com/purchase/580414/
@@ -989,7 +516,7 @@ URL:https://paradiseonbloor.com/movies/romeria/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreUnsubculturepresentsBarakaJuly13630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260713T223000Z
 DTEND:20260714T002100Z
 SUMMARY:🦊 FOX — Unsubculture presents: Baraka
@@ -998,17 +525,17 @@ DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTracyandMartinaGoinOutWestJul13830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T003000Z
 DTEND:20260714T021500Z
 SUMMARY:🌴 PAR — Tracy and Martina: Goin’ Out West
 LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: Drag Me To The Movies\nDirector: Brendan Langelle Lyle\nTickets: https://paradiseonbloor.com/purchase/587937/
+DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Brendan Langelle Lyle\nTickets: https://paradiseonbloor.com/purchase/587937/
 URL:https://paradiseonbloor.com/movies/tracy-and-martina-goin-out-west/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly13915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T011500Z
 DTEND:20260714T031800Z
 SUMMARY:🦊 FOX — The Invite
@@ -1017,7 +544,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreLeChantdesfortsWhispersintheWoodsJuly14400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T200000Z
 DTEND:20260714T214800Z
 SUMMARY:🦊 FOX — Le Chant des forêts (Whispers in the Woods)
@@ -1026,7 +553,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxTenet70mmJul14600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T220000Z
 DTEND:20260715T003000Z
 SUMMARY:🧊 TIF — Tenet (70mm)
@@ -1034,8 +561,18 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul14615PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260714T221500Z
+DTEND:20260715T001600Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaHeatWaveSKATEKITCHEN2018IntroducedbyFadumaGureJuly14630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T223000Z
 DTEND:20260715T003100Z
 SUMMARY:🍿 REV — Heat Wave: SKATE KITCHEN (2018) - Introduced by Faduma Gure!
@@ -1045,7 +582,7 @@ URL:https://revuecinema.ca/films/heat-wave-skate-kitchen-2018-introduced-by-fadu
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly14630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T223000Z
 DTEND:20260715T003300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1053,8 +590,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul14700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260714T230000Z
+DTEND:20260715T010900Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul14730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260714T233000Z
 DTEND:20260715T011800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1063,8 +610,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul14845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260715T004500Z
+DTEND:20260715T022700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreSleepawayCampJuly14915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T011500Z
 DTEND:20260715T025500Z
 SUMMARY:🦊 FOX — Sleepaway Camp
@@ -1073,7 +630,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, Summer Camp Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHEDEPARTED20thAnniversaryScreeningJuly14930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T013000Z
 DTEND:20260715T041600Z
 SUMMARY:🍿 REV — Revue Event: THE DEPARTED - 20th Anniversary Screening!
@@ -1083,7 +640,7 @@ URL:https://revuecinema.ca/films/revue-event-the-departed-20th-anniversary-scree
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly15330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T193000Z
 DTEND:20260715T213300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1091,8 +648,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul15415PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260715T201500Z
+DTEND:20260715T222400Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul15430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260715T203000Z
+DTEND:20260715T221200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul15445PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T204500Z
 DTEND:20260715T223300Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1102,17 +679,17 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTracyandMartinaGoinOutWestJul15600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T220000Z
 DTEND:20260715T234500Z
 SUMMARY:🌴 PAR — Tracy and Martina: Goin’ Out West
 LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
-DESCRIPTION:Paradise Theatre\nSeries: Drag Me To The Movies\nDirector: Brendan Langelle Lyle\nTickets: https://paradiseonbloor.com/purchase/587938/
+DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Brendan Langelle Lyle\nTickets: https://paradiseonbloor.com/purchase/587938/
 URL:https://paradiseonbloor.com/movies/tracy-and-martina-goin-out-west/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventSICKPUPPYTorontoTheatricalPremierewithcastcrewinattendanceJuly15630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T223000Z
 DTEND:20260716T003000Z
 SUMMARY:🍿 REV — Revue Event: SICK PUPPY - Toronto Theatrical Premiere with cast & crew in attendance!
@@ -1122,7 +699,7 @@ URL:https://revuecinema.ca/films/revue-event-sick-puppy-toronto-theatrical-premi
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxRedlineJul15630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T223000Z
 DTEND:20260716T002700Z
 SUMMARY:🧊 TIF — Redline
@@ -1132,7 +709,7 @@ URL:https://tiff.net/events/redline
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreLeChantdesfortsWhispersintheWoodsJuly15630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T223000Z
 DTEND:20260716T001800Z
 SUMMARY:🦊 FOX — Le Chant des forêts (Whispers in the Woods)
@@ -1141,7 +718,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul15645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T224500Z
 DTEND:20260716T003300Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1150,8 +727,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul15700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260715T230000Z
+DTEND:20260716T004200Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxTheSummerofSchoenbrunWereAllGoingtotheWorldsFairJul15715PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260715T231500Z
 DTEND:20260716T005600Z
 SUMMARY:🧊 TIF — The Summer of Schoenbrun: We're All Going to the World's Fair
@@ -1160,8 +747,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: Jane Schoenbrun
 URL:https://tiff.net/events/the-summer-of-schoenbrun-we-re-going-to-the-world-s-fair
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul15730PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260715T233000Z
+DTEND:20260716T013100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreTorontoApartmentJul15830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T003000Z
 DTEND:20260716T015500Z
 SUMMARY:🌴 PAR — Toronto Apartment
@@ -1171,7 +768,7 @@ URL:https://paradiseonbloor.com/movies/toronto-apartment/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxTheFirstSlamDunkJul15900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T010000Z
 DTEND:20260716T031900Z
 SUMMARY:🧊 TIF — The First Slam Dunk
@@ -1181,7 +778,7 @@ URL:https://tiff.net/events/the-first-slam-dunk
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly15900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T010000Z
 DTEND:20260716T030300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1189,8 +786,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul15915PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T011500Z
+DTEND:20260716T025700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul15920PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T012000Z
+DTEND:20260716T032100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaHorrorRamaAMERICANNIGHTMARE1983Presentedon16mmDirectorinAttendanceJuly15930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T013000Z
 DTEND:20260716T031300Z
 SUMMARY:🍿 REV — Horror-Rama: AMERICAN NIGHTMARE (1983) - Presented on 16mm! - Director in Attendance!
@@ -1200,7 +817,7 @@ URL:https://revuecinema.ca/films/horror-rama-american-nightmare-1983-presented-o
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul15930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T013000Z
 DTEND:20260716T031800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1209,8 +826,28 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul16400PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T200000Z
+DTEND:20260716T220100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul16415PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T201500Z
+DTEND:20260716T215700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreLeChantdesfortsWhispersintheWoodsJuly16415PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T201500Z
 DTEND:20260716T220300Z
 SUMMARY:🦊 FOX — Le Chant des forêts (Whispers in the Woods)
@@ -1219,7 +856,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul16430PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T203000Z
 DTEND:20260716T221800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1229,7 +866,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxThePrestigewithScottHammellJul16600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T220000Z
 DTEND:20260717T003000Z
 SUMMARY:🧊 TIF — The Prestige with Scott Hammell
@@ -1237,8 +874,18 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul16615PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T221500Z
+DTEND:20260716T235700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaTheBlackNerdsWeReallyLikeHerEVESBAYOU1997July16630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T223000Z
 DTEND:20260717T003300Z
 SUMMARY:🍿 REV — The Black Nerds + We Really Like Her: EVE'S BAYOU (1997)
@@ -1248,7 +895,7 @@ URL:https://revuecinema.ca/films/the-black-nerds-we-really-like-her-eves-bayou-1
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxDrunkenNoodlesJul16630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T223000Z
 DTEND:20260717T000800Z
 SUMMARY:🧊 TIF — Drunken Noodles
@@ -1257,8 +904,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: Lucio Castro
 URL:https://tiff.net/events/drunken-noodles
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRomeraJul16645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260716T224500Z
+DTEND:20260717T005400Z
+SUMMARY:🧊 TIF — Romería
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Carla Simón
+URL:https://tiff.net/events/romeria
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly16645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T224500Z
 DTEND:20260717T004800Z
 SUMMARY:🦊 FOX — The Invite
@@ -1267,7 +924,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul16700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T230000Z
 DTEND:20260717T004800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1277,7 +934,7 @@ URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreRezBallJul16700PMOC@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260716T230000Z
 DTEND:20260717T010800Z
 SUMMARY:🌴 PAR — Rez Ball
@@ -1286,8 +943,18 @@ DESCRIPTION:Paradise Theatre\nSeries: Film Festivals & External Screenings\nDire
 URL:https://paradiseonbloor.com/movies/rez-ball/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxCoutureJul16830PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T003000Z
+DTEND:20260717T023100Z
+SUMMARY:🧊 TIF — Couture
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Alice Winocour
+URL:https://tiff.net/events/couture
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxLeninJul16845PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T004500Z
 DTEND:20260717T032700Z
 SUMMARY:🧊 TIF — Lenin
@@ -1297,7 +964,7 @@ URL:https://tiff.net/events/lenin
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreGummoJuly16920PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T012000Z
 DTEND:20260717T030400Z
 SUMMARY:🦊 FOX — Gummo
@@ -1306,7 +973,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, Detour
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaStompboxBUTTHOLESURFERSTHEHOLETRUTHANDNOTHINGBUTTTorontoTheatricalPremiereJuly16930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T013000Z
 DTEND:20260717T033100Z
 SUMMARY:🍿 REV — Stompbox: BUTTHOLE SURFERS: THE HOLE TRUTH AND NOTHING BUTT - Toronto Theatrical Premiere!
@@ -1316,7 +983,7 @@ URL:https://revuecinema.ca/films/stompbox-butthole-surfers-the-hole-truth-and-no
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul16930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T013000Z
 DTEND:20260717T031800Z
 SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
@@ -1325,8 +992,28 @@ DESCRIPTION:TIFF Lightbox\nDirector: David Wain
 URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxLeviticusJul16945PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T014500Z
+DTEND:20260717T032700Z
+SUMMARY:🧊 TIF — Leviticus
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Adrian Chiarella
+URL:https://tiff.net/events/leviticus
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul17200PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T180000Z
+DTEND:20260717T200900Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly17340PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T194000Z
 DTEND:20260717T214300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1335,7 +1022,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly17400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T200000Z
 DTEND:20260717T220300Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1344,8 +1031,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul17415PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T201500Z
+DTEND:20260717T222400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxFollowingJul17600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T220000Z
 DTEND:20260718T003000Z
 SUMMARY:🧊 TIF — Following
@@ -1354,7 +1051,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand 
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreThelmaLouiseJul17600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T220000Z
 DTEND:20260718T002500Z
 SUMMARY:🌴 PAR — Thelma & Louise
@@ -1364,7 +1061,7 @@ URL:https://paradiseonbloor.com/movies/thelma-louise/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly17620PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T222000Z
 DTEND:20260718T002300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1372,8 +1069,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul17645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T224500Z
+DTEND:20260718T005400Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventWEREALLGOINGTOTHEWORLDSFAIR2022July17700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260717T230000Z
 DTEND:20260718T004100Z
 SUMMARY:🍿 REV — Revue Event: WE'RE ALL GOING TO THE WORLD'S FAIR (2022)
@@ -1382,8 +1089,38 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-were-all-going-to-the-worlds-fair-2022/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul17700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T230000Z
+DTEND:20260718T010800Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul17745PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260717T234500Z
+DTEND:20260718T015400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxBarrioTristeJul17800PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260718T000000Z
+DTEND:20260718T014400Z
+SUMMARY:🧊 TIF — Barrio Triste
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreDarkStarJul17900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T010000Z
 DTEND:20260718T023800Z
 SUMMARY:🌴 PAR — Dark Star
@@ -1393,7 +1130,7 @@ URL:https://paradiseonbloor.com/movies/dark-star/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreRoseofNevadaJuly17900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T010000Z
 DTEND:20260718T030900Z
 SUMMARY:🦊 FOX — Rose of Nevada
@@ -1402,7 +1139,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventISAWTHETVGLOW2024July17930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T013000Z
 DTEND:20260718T032500Z
 SUMMARY:🍿 REV — Revue Event: I SAW THE TV GLOW (2024)
@@ -1412,7 +1149,7 @@ URL:https://revuecinema.ca/films/revue-event-i-saw-the-tv-glow-2024/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly18100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T170000Z
 DTEND:20260718T190300Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1422,7 +1159,7 @@ URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxLaCienagaJul18100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T170000Z
 DTEND:20260718T185600Z
 SUMMARY:🧊 TIF — La Ciénaga
@@ -1431,8 +1168,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: Lucrecia Martel
 URL:https://tiff.net/events/la-cienaga
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul18115PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260718T171500Z
+DTEND:20260718T192400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreWALLEJul18230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T183000Z
 DTEND:20260718T202300Z
 SUMMARY:🌴 PAR — WALL·E
@@ -1442,7 +1189,7 @@ URL:https://paradiseonbloor.com/movies/wall%c2%b7e/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThrowbackCinemaWALLACEGROMITTHECURSEOFTHEWERERABBIT2005July18400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T200000Z
 DTEND:20260718T214000Z
 SUMMARY:🍿 REV — Throwback Cinema: WALLACE & GROMIT: THE CURSE OF THE WERE-RABBIT (2005)
@@ -1452,7 +1199,7 @@ URL:https://revuecinema.ca/films/throwback-cinema-wallace-gromit-the-curse-of-th
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxOppenheimer70mmJul18400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T200000Z
 DTEND:20260718T223000Z
 SUMMARY:🧊 TIF — Oppenheimer (70mm)
@@ -1461,7 +1208,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand 
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly18400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T200000Z
 DTEND:20260718T220300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1469,8 +1216,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul18445PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260718T204500Z
+DTEND:20260718T225400Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreRoseofNevadaJul18530PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T213000Z
 DTEND:20260718T233900Z
 SUMMARY:🌴 PAR — Rose of Nevada
@@ -1479,8 +1236,18 @@ DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Mar
 URL:https://paradiseonbloor.com/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxBarrioTristeJul18630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260718T223000Z
+DTEND:20260719T001400Z
+SUMMARY:🧊 TIF — Barrio Triste
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly18640PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T224000Z
 DTEND:20260719T004300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1489,7 +1256,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaOBSESSIONJuly18645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T224500Z
 DTEND:20260719T004800Z
 SUMMARY:🍿 REV — OBSESSION
@@ -1498,8 +1265,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/obsession/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul18715PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260718T231500Z
+DTEND:20260719T012400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxQuoteAlongBarbieJul18730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260718T233000Z
 DTEND:20260719T000500Z
 SUMMARY:🧊 TIF — Quote Along: Barbie
@@ -1508,8 +1285,28 @@ DESCRIPTION:TIFF Lightbox
 URL:https://tiff.net/events/quote-along-barbie
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul18815PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T001500Z
+DTEND:20260719T022300Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxGailDaughtryandtheCelebritySexPassJul18830PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T003000Z
+DTEND:20260719T021800Z
+SUMMARY:🧊 TIF — Gail Daughtry and the Celebrity Sex Pass
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: David Wain
+URL:https://tiff.net/events/gail-daughtry-and-the-celebrity-sex-pass
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreTrueRomanceJul18830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T003000Z
 DTEND:20260719T024600Z
 SUMMARY:🌴 PAR — True Romance
@@ -1518,8 +1315,18 @@ DESCRIPTION:Paradise Theatre\nSeries: Great Scott\nDirector: Tony Scott\nTickets
 URL:https://paradiseonbloor.com/movies/true-romance/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul18845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T004500Z
+DTEND:20260719T025400Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaBlackBeltCinemaMIAMICONNECTIONFeaturingALivePerformancebyDRAGONSOUNDSJuly18930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T013000Z
 DTEND:20260719T031100Z
 SUMMARY:🍿 REV — Black Belt Cinema: MIAMI CONNECTION - Featuring A Live Performance by DRAGON SOUNDS!
@@ -1529,7 +1336,7 @@ URL:https://revuecinema.ca/films/black-belt-cinema-miami-connection-featuring-a-
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreRestorationSe7enJuly18930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T013000Z
 DTEND:20260719T035200Z
 SUMMARY:🦊 FOX — Restoration: Se7en
@@ -1537,8 +1344,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, Restoration
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul191230PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T163000Z
+DTEND:20260719T183900Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul191245PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T164500Z
+DTEND:20260719T185400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly191245PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T164500Z
 DTEND:20260719T184800Z
 SUMMARY:🦊 FOX — The Invite
@@ -1547,7 +1374,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaOBSESSIONJuly19100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T170000Z
 DTEND:20260719T190300Z
 SUMMARY:🍿 REV — OBSESSION
@@ -1557,7 +1384,7 @@ URL:https://revuecinema.ca/films/obsession/
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTheRightStuffJul19200PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T180000Z
 DTEND:20260719T212800Z
 SUMMARY:🌴 PAR — The Right Stuff
@@ -1567,7 +1394,7 @@ URL:https://paradiseonbloor.com/movies/the-right-stuff/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxMementoJul19300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210800Z
 SUMMARY:🧊 TIF — Memento
@@ -1577,7 +1404,7 @@ URL:https://tiff.net/events/memento
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSpectacleMishimaALifeinFourChaptersJuly19330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T193000Z
 DTEND:20260719T214600Z
 SUMMARY:🦊 FOX — Spectacle: Mishima: A Life in Four Chapters
@@ -1586,7 +1413,7 @@ DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly19400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T200000Z
 DTEND:20260719T220300Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1595,8 +1422,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxBarrioTristeJul19400PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T200000Z
+DTEND:20260719T214400Z
+SUMMARY:🧊 TIF — Barrio Triste
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreALitanyforSurvivalTheLifeandWorkofAudreLordeJul19600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T220000Z
 DTEND:20260719T234300Z
 SUMMARY:🌴 PAR — A Litany for Survival: The Life and Work of Audre Lorde
@@ -1606,7 +1443,7 @@ URL:https://paradiseonbloor.com/movies/a-litany-for-survival-the-life-and-work-o
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly19620PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T222000Z
 DTEND:20260720T002300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1614,8 +1451,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul19630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T223000Z
+DTEND:20260720T003800Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul19645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T224500Z
+DTEND:20260720T005400Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaDontBeSoPoliticalKINGDOMOFHEAVENDirectorsCutJuly19700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T230000Z
 DTEND:20260720T013900Z
 SUMMARY:🍿 REV — Don't Be So Political: KINGDOM OF HEAVEN - Director's Cut
@@ -1625,7 +1482,7 @@ URL:https://revuecinema.ca/films/dont-be-so-political-kingdom-of-heaven-director
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxTenet70mmJul19700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260719T230000Z
 DTEND:20260720T013000Z
 SUMMARY:🧊 TIF — Tenet (70mm)
@@ -1633,8 +1490,18 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul19730PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260719T233000Z
+DTEND:20260720T013900Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreRoseofNevadaJuly19900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260720T010000Z
 DTEND:20260720T030900Z
 SUMMARY:🦊 FOX — Rose of Nevada
@@ -1643,7 +1510,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly20630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260720T223000Z
 DTEND:20260721T003300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1652,7 +1519,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly20645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260720T224500Z
 DTEND:20260721T004800Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1662,7 +1529,7 @@ URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreRoseofNevadaJuly20915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T011500Z
 DTEND:20260721T032400Z
 SUMMARY:🦊 FOX — Rose of Nevada
@@ -1671,7 +1538,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaOBSESSIONJuly20930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T013000Z
 DTEND:20260721T033300Z
 SUMMARY:🍿 REV — OBSESSION
@@ -1681,7 +1548,7 @@ URL:https://revuecinema.ca/films/obsession/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly21350PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T195000Z
 DTEND:20260721T215300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1690,7 +1557,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreRoseofNevadaJul21600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T220000Z
 DTEND:20260722T000900Z
 SUMMARY:🌴 PAR — Rose of Nevada
@@ -1699,17 +1566,28 @@ DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Mar
 URL:https://paradiseonbloor.com/movies/rose-of-nevada/
 END:VEVENT
 BEGIN:VEVENT
-UID:TIFFLightboxMachoDancerwithrecordedintrobyLavDiazJul21630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260721T223000Z
-DTEND:20260722T010000Z
-SUMMARY:🧊 TIF — Macho Dancer with recorded intro by Lav Diaz
+UID:TIFFLightboxBarrioTristeJul21615PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260721T221500Z
+DTEND:20260721T235900Z
+SUMMARY:🧊 TIF — Barrio Triste
 LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
-DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / TIFF Cinematheque New and Restored
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxMachoDancerJul21630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260721T223000Z
+DTEND:20260722T005800Z
+SUMMARY:🧊 TIF — Macho Dancer
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Lino Brocka
+URL:https://tiff.net/events/macho-dancer
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSpectacleMishimaALifeinFourChaptersJuly21630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T223000Z
 DTEND:20260722T004600Z
 SUMMARY:🦊 FOX — Spectacle: Mishima: A Life in Four Chapters
@@ -1718,7 +1596,7 @@ DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly21645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260721T224500Z
 DTEND:20260722T004800Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1727,8 +1605,38 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul21700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260721T230000Z
+DTEND:20260722T010900Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul21730PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260721T233000Z
+DTEND:20260722T013900Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul21830PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T003000Z
+DTEND:20260722T023800Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreHustlerWhite30thAnniversaryJul21830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T003000Z
 DTEND:20260722T020500Z
 SUMMARY:🌴 PAR — Hustler White: 30th Anniversary!
@@ -1737,8 +1645,17 @@ DESCRIPTION:Paradise Theatre\nSeries: Desire in Motion\nDirector: Bruce LaBruce\
 URL:https://paradiseonbloor.com/movies/hustler-white-30th-anniversary/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreTheInviteJuly21920PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T012000Z
+DTEND:20260722T032300Z
+SUMMARY:🦊 FOX — The Invite
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaOBSESSIONJuly21930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T013000Z
 DTEND:20260722T033300Z
 SUMMARY:🍿 REV — OBSESSION
@@ -1747,8 +1664,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/obsession/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul22345PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T194500Z
+DTEND:20260722T215400Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly22350PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T195000Z
 DTEND:20260722T215300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1757,7 +1684,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly22400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T200000Z
 DTEND:20260722T220300Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1766,8 +1693,28 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxBarrioTristeJul22400PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T200000Z
+DTEND:20260722T214400Z
+SUMMARY:🧊 TIF — Barrio Triste
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul22430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T203000Z
+DTEND:20260722T223800Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly22630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T223000Z
 DTEND:20260723T003300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1776,7 +1723,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveJAMONJAMON1992IntroducedbyAliciaFletcherJuly22700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T230000Z
 DTEND:20260723T004900Z
 SUMMARY:🍿 REV — Heat Wave: JAMON JAMON  (1992) - Introduced by Alicia Fletcher
@@ -1786,7 +1733,7 @@ URL:https://revuecinema.ca/films/heat-wave-jamon-jamon-1992-introduced-by-alicia
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxOppenheimer70mmJul22700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T230000Z
 DTEND:20260723T013000Z
 SUMMARY:🧊 TIF — Oppenheimer (70mm)
@@ -1795,7 +1742,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand 
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxTheOtherHalfJul22715PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T231500Z
 DTEND:20260723T011300Z
 SUMMARY:🧊 TIF — The Other Half
@@ -1804,8 +1751,28 @@ DESCRIPTION:TIFF Lightbox\nDirector: Joey Klein
 URL:https://tiff.net/events/the-other-half
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul22720PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T232000Z
+DTEND:20260723T012900Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul22730PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260722T233000Z
+DTEND:20260723T013900Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreChocolateBabiesJul22730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260722T233000Z
 DTEND:20260723T010800Z
 SUMMARY:🌴 PAR — Chocolate Babies
@@ -1815,7 +1782,7 @@ URL:https://paradiseonbloor.com/movies/chocolate-babies/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxBendItLikeBeckhamJul22900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T010000Z
 DTEND:20260723T030700Z
 SUMMARY:🧊 TIF — Bend It Like Beckham
@@ -1825,7 +1792,7 @@ URL:https://tiff.net/events/bend-it-like-beckham
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreRestorationSe7enJuly22915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T011500Z
 DTEND:20260723T033700Z
 SUMMARY:🦊 FOX — Restoration: Se7en
@@ -1834,7 +1801,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, Restoration
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaPsychOutCinemaRUNLOLARUN1998NewRestorationJuly22930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T013000Z
 DTEND:20260723T030500Z
 SUMMARY:🍿 REV — Psych-Out Cinema: RUN LOLA RUN (1998) - New Restoration!
@@ -1844,7 +1811,7 @@ URL:https://revuecinema.ca/films/psych-out-cinema-run-lola-run-1998-new-restorat
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheInviteJuly23350PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T195000Z
 DTEND:20260723T215300Z
 SUMMARY:🦊 FOX — The Invite
@@ -1852,8 +1819,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRemakeJul23400PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260723T200000Z
+DTEND:20260723T220900Z
+SUMMARY:🧊 TIF — Remake
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Ross McElwee
+URL:https://tiff.net/events/remake
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul23430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260723T203000Z
+DTEND:20260723T223900Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaPaidInSweatWHIPIT2009Presentedon35mmJuly23630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T223000Z
 DTEND:20260724T003600Z
 SUMMARY:🍿 REV — Paid In Sweat: WHIP IT (2009) - Presented on 35mm!
@@ -1863,7 +1850,7 @@ URL:https://revuecinema.ca/films/paid-in-sweat-whip-it-2009-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSlumberPartySisterhoodoftheTravellingPantsJuly23630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T223000Z
 DTEND:20260724T004400Z
 SUMMARY:🦊 FOX — Slumber Party: Sisterhood of the Travelling Pants
@@ -1871,8 +1858,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, Slumber Party
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxBarrioTristeJul23645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260723T224500Z
+DTEND:20260724T002900Z
+SUMMARY:🧊 TIF — Barrio Triste
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: STILLZ
+URL:https://tiff.net/events/barrio-triste
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxMaterialPracticeLukeFowlerandCorinSwornJul23700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260723T230000Z
 DTEND:20260724T013000Z
 SUMMARY:🧊 TIF — Material Practice: Luke Fowler and Corin Sworn
@@ -1880,8 +1877,28 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / TIFF Cinematheque Special Screenings
 END:VEVENT
 BEGIN:VEVENT
+UID:TIFFLightboxRoseofNevadaJul23800PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260724T000000Z
+DTEND:20260724T020900Z
+SUMMARY:🧊 TIF — Rose of Nevada
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Mark Jenkin
+URL:https://tiff.net/events/rose-of-nevada
+END:VEVENT
+BEGIN:VEVENT
+UID:TIFFLightboxStealAwayJul23900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260724T010000Z
+DTEND:20260724T030800Z
+SUMMARY:🧊 TIF — Steal Away
+LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
+DESCRIPTION:TIFF Lightbox\nDirector: Clement Virgo
+URL:https://tiff.net/events/steal-away
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaTHEINVITEJuly23930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260724T013000Z
 DTEND:20260724T033300Z
 SUMMARY:🍿 REV — THE INVITE
@@ -1890,8 +1907,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-invite/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreTheInviteJuly23930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260724T013000Z
+DTEND:20260724T033300Z
+SUMMARY:🦊 FOX — The Invite
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:TIFFLightboxSilverScreeningsTheRightStuffJul241200PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260724T160000Z
 DTEND:20260724T192800Z
 SUMMARY:🧊 TIF — Silver Screenings: The Right Stuff
@@ -1901,7 +1927,7 @@ URL:https://tiff.net/events/silver-screenings-the-right-stuff
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTo70AndBeyondPROJECTHAILMARYPresentedon70mmJuly24600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260724T220000Z
 DTEND:20260725T005200Z
 SUMMARY:🍿 REV — To 70 And Beyond: PROJECT HAIL MARY - Presented on 70mm!
@@ -1911,7 +1937,7 @@ URL:https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxGenderationJul24630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260724T223000Z
 DTEND:20260725T001300Z
 SUMMARY:🧊 TIF — Genderation
@@ -1921,7 +1947,7 @@ URL:https://tiff.net/events/genderation
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaNeonDreamsMIAMIVICE20thAnniversaryScreeningJuly24930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T013000Z
 DTEND:20260725T035700Z
 SUMMARY:🍿 REV — Neon Dreams: MIAMI VICE - 20th Anniversary Screening!
@@ -1931,7 +1957,7 @@ URL:https://revuecinema.ca/films/neon-dreams-miami-vice-20th-anniversary-screeni
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreKlassicKidzTheIronGiantJuly25100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T170000Z
 DTEND:20260725T184100Z
 SUMMARY:🦊 FOX — Klassic Kidz: The Iron Giant
@@ -1940,7 +1966,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, Klassic Kidz
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTo70AndBeyondPROJECTHAILMARYPresentedon70mmJuly25230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T183000Z
 DTEND:20260725T212200Z
 SUMMARY:🍿 REV — To 70 And Beyond: PROJECT HAIL MARY - Presented on 70mm!
@@ -1950,7 +1976,7 @@ URL:https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxInceptionwithDanJolinJul25300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T190000Z
 DTEND:20260725T213000Z
 SUMMARY:🧊 TIF — Inception with Dan Jolin
@@ -1958,8 +1984,17 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreHadestownTheMusicalJuly25315PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260725T191500Z
+DTEND:20260725T215200Z
+SUMMARY:🦊 FOX — Hadestown: The Musical
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHEPIANOTEACHER25thAnniversaryScreeningJuly25615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T221500Z
 DTEND:20260726T004100Z
 SUMMARY:🍿 REV — Revue Event: THE PIANO TEACHER - 25th Anniversary Screening!
@@ -1969,7 +2004,7 @@ URL:https://revuecinema.ca/films/revue-event-the-piano-teacher-25th-anniversary-
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxSummerInterludeJul25630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260725T223000Z
 DTEND:20260726T002100Z
 SUMMARY:🧊 TIF — Summer Interlude
@@ -1978,8 +2013,17 @@ DESCRIPTION:TIFF Lightbox\nDirector: Ingmar Bergman
 URL:https://tiff.net/events/summer-interlude
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreObsessionJuly25915PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260726T011500Z
+DTEND:20260726T031900Z
+SUMMARY:🦊 FOX — Obsession
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaDumpsterRaccoonPSYCHOBEACHPARTY2000July25930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T013000Z
 DTEND:20260726T032200Z
 SUMMARY:🍿 REV — Dumpster Raccoon: PSYCHO BEACH PARTY (2000)
@@ -1989,7 +2033,7 @@ URL:https://revuecinema.ca/films/dumpster-raccoon-psycho-beach-party-2000/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTo70AndBeyondPROJECTHAILMARYPresentedon70mmJuly261130AM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T153000Z
 DTEND:20260726T182200Z
 SUMMARY:🍿 REV — To 70 And Beyond: PROJECT HAIL MARY - Presented on 70mm!
@@ -1999,7 +2043,7 @@ URL:https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreKlassicKidzTheIronGiantJuly26100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T170000Z
 DTEND:20260726T184100Z
 SUMMARY:🦊 FOX — Klassic Kidz: The Iron Giant
@@ -2008,7 +2052,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, Klassic Kidz
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxThePrestigeJul26300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T190000Z
 DTEND:20260726T213000Z
 SUMMARY:🧊 TIF — The Prestige
@@ -2017,7 +2061,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand 
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventMODERNWHOREWithNicoleBazuinandAndreaWerhunInAttendanceJuly26330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T193000Z
 DTEND:20260726T210500Z
 SUMMARY:🍿 REV — Revue Event: MODERN WHORE - With Nicole Bazuin and Andrea Werhun In Attendance!
@@ -2027,7 +2071,7 @@ URL:https://revuecinema.ca/films/revue-event-modern-whore-with-nicole-bazuin-and
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreCallofMyLifewithQAJuly26600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T220000Z
 DTEND:20260727T000500Z
 SUMMARY:🦊 FOX — Call of My Life with Q&A
@@ -2036,7 +2080,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxAssaultonPrecinct13Jul26630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T223000Z
 DTEND:20260727T001600Z
 SUMMARY:🧊 TIF — Assault on Precinct 13
@@ -2046,7 +2090,7 @@ URL:https://tiff.net/events/assault-on-precinct-13
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveTHEFOUNTAIN20thAnniversaryScreeningJuly26645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260726T224500Z
 DTEND:20260727T003600Z
 SUMMARY:🍿 REV — Destination Love: THE FOUNTAIN - 20th Anniversary Screening
@@ -2056,7 +2100,7 @@ URL:https://revuecinema.ca/films/destination-love-the-fountain-20th-anniversary-
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreZardozJuly26900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260727T010000Z
 DTEND:20260727T030100Z
 SUMMARY:🦊 FOX — Zardoz
@@ -2065,7 +2109,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, The Zone
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTakeCareofMyCat25thAnniversaryJul27600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260727T220000Z
 DTEND:20260728T000700Z
 SUMMARY:🌴 PAR — Take Care of My Cat: 25th Anniversary!
@@ -2074,8 +2118,17 @@ DESCRIPTION:Paradise Theatre\nSeries: New Releases & Restorations\nDirector: Jeo
 URL:https://paradiseonbloor.com/movies/take-care-of-my-cat-25th-anniversary/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreHadestownTheMusicalJuly27615PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260727T221500Z
+DTEND:20260728T005200Z
+SUMMARY:🦊 FOX — Hadestown: The Musical
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveTHELAKEHOUSE20thAnniversaryScreeningJuly27645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260727T224500Z
 DTEND:20260728T003900Z
 SUMMARY:🍿 REV — Destination Love: THE LAKE HOUSE - 20th Anniversary Screening!
@@ -2085,7 +2138,7 @@ URL:https://revuecinema.ca/films/destination-love-the-lake-house-20th-anniversar
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTheInviteJul27845PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260728T004500Z
 DTEND:20260728T024700Z
 SUMMARY:🌴 PAR — The Invite
@@ -2095,7 +2148,7 @@ URL:https://paradiseonbloor.com/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTo70AndBeyondPROJECTHAILMARYPresentedon70mmJuly27930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260728T013000Z
 DTEND:20260728T042200Z
 SUMMARY:🍿 REV — To 70 And Beyond: PROJECT HAIL MARY - Presented on 70mm!
@@ -2104,8 +2157,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on-70mm/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreObsessionJuly27930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260728T013000Z
+DTEND:20260728T033400Z
+SUMMARY:🦊 FOX — Obsession
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreTheInviteJul28600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260728T220000Z
 DTEND:20260729T000200Z
 SUMMARY:🌴 PAR — The Invite
@@ -2115,7 +2177,7 @@ URL:https://paradiseonbloor.com/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveINTHEHEATOFTHENIGHT1967IntroducedbyTerryOflahertyJuly28630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260728T223000Z
 DTEND:20260729T003400Z
 SUMMARY:🍿 REV — Heat Wave: IN THE HEAT OF THE NIGHT (1967) - Introduced by Terry O'flaherty
@@ -2125,7 +2187,7 @@ URL:https://revuecinema.ca/films/heat-wave-in-the-heat-of-the-night-1967-introdu
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxInsomniaJul28630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260728T223000Z
 DTEND:20260729T010000Z
 SUMMARY:🧊 TIF — Insomnia
@@ -2133,8 +2195,17 @@ LOCATION:TIFF Lightbox\, 350 King St W\, Toronto
 DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / Christopher Nolan: Grand Designs
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreStaffPicksASilentVoiceJuly28630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260728T223000Z
+DTEND:20260729T005400Z
+SUMMARY:🦊 FOX — Staff Picks: A Silent Voice
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreForAllMankindATriptotheMoonJul28830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T003000Z
 DTEND:20260729T020500Z
 SUMMARY:🌴 PAR — For All Mankind + A Trip to the Moon
@@ -2144,7 +2215,7 @@ URL:https://paradiseonbloor.com/movies/for-all-mankind/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveTHETIMETRAVELERSWIFE2009July28930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T013000Z
 DTEND:20260729T033200Z
 SUMMARY:🍿 REV — Destination Love: THE TIME TRAVELER'S WIFE (2009)
@@ -2153,8 +2224,26 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/destination-love-the-time-travelers-wife-2009/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreObsessionJuly28930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260729T013000Z
+DTEND:20260729T033400Z
+SUMMARY:🦊 FOX — Obsession
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
+UID:FoxTheatreHadestownTheMusicalJuly29315PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260729T191500Z
+DTEND:20260729T215200Z
+SUMMARY:🦊 FOX — Hadestown: The Musical
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreTheInviteJul29600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T220000Z
 DTEND:20260730T000200Z
 SUMMARY:🌴 PAR — The Invite
@@ -2164,7 +2253,7 @@ URL:https://paradiseonbloor.com/movies/the-invite/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxMemoryofPrincessMumbiJul29630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T223000Z
 DTEND:20260730T000400Z
 SUMMARY:🧊 TIF — Memory of Princess Mumbi
@@ -2174,7 +2263,7 @@ URL:https://tiff.net/events/memory-of-princess-mumbi
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSingAlongGreaseJuly29630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T223000Z
 DTEND:20260730T003500Z
 SUMMARY:🦊 FOX — Sing-Along! Grease
@@ -2183,7 +2272,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films\, Sing-Along Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveSOLARIS2002July29645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T224500Z
 DTEND:20260730T003900Z
 SUMMARY:🍿 REV — Destination Love: SOLARIS (2002)
@@ -2193,7 +2282,7 @@ URL:https://revuecinema.ca/films/destination-love-solaris-2002/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxPremiumRushwithrecordedintrobyDavidKoeppJul29700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260729T230000Z
 DTEND:20260730T013000Z
 SUMMARY:🧊 TIF — Premium Rush with recorded intro by David Koepp
@@ -2202,7 +2291,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / TIFF Next Wave Presents
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreStolenKingdomJul29830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T003000Z
 DTEND:20260730T015900Z
 SUMMARY:🌴 PAR — Stolen Kingdom
@@ -2212,7 +2301,7 @@ URL:https://paradiseonbloor.com/movies/stolen-kingdom/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxRemembertheTitansJul29900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T010000Z
 DTEND:20260730T030800Z
 SUMMARY:🧊 TIF — Remember the Titans
@@ -2222,7 +2311,7 @@ URL:https://tiff.net/events/remember-the-titans
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreZardozJuly29915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T011500Z
 DTEND:20260730T031600Z
 SUMMARY:🦊 FOX — Zardoz
@@ -2231,7 +2320,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, The Zone
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTo70AndBeyondPROJECTHAILMARYPresentedon70mmJuly29930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T013000Z
 DTEND:20260730T042200Z
 SUMMARY:🍿 REV — To 70 And Beyond: PROJECT HAIL MARY - Presented on 70mm!
@@ -2241,7 +2330,7 @@ URL:https://revuecinema.ca/films/to-70-and-beyond-project-hail-mary-presented-on
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxMDFFSelectsStudentFilmShowcase2026Jul30630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T223000Z
 DTEND:20260731T010000Z
 SUMMARY:🧊 TIF — MDFF Selects: Student Film Showcase 2026
@@ -2250,7 +2339,7 @@ DESCRIPTION:TIFF Lightbox\nSeries: TIFF Cinematheque / MDFF Selects
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreBattleofSexesMarnieJuly30630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T223000Z
 DTEND:20260731T005500Z
 SUMMARY:🦊 FOX — Battle of Sexes: Marnie
@@ -2259,7 +2348,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHoldUp13GOINGON302004July30645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T224500Z
 DTEND:20260731T003800Z
 SUMMARY:🍿 REV — Hold Up: 13 GOING ON 30 (2004)
@@ -2269,7 +2358,7 @@ URL:https://revuecinema.ca/films/hold-up-13-going-on-30-2004/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxTheSummerofSchoenbrunISawtheTVGlowJul30700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260730T230000Z
 DTEND:20260731T005500Z
 SUMMARY:🧊 TIF — The Summer of Schoenbrun: I Saw the TV Glow
@@ -2278,8 +2367,18 @@ DESCRIPTION:TIFF Lightbox\nDirector: Jane Schoenbrun
 URL:https://tiff.net/events/i-saw-the-tv-glow
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreTheTasteofTeaJul30700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260730T230000Z
+DTEND:20260731T013800Z
+SUMMARY:🌴 PAR — The Taste of Tea
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Eastern Promises\nDirector: Katsuhito Ishii\nTickets: https://paradiseonbloor.com/purchase/588749/
+URL:https://paradiseonbloor.com/movies/the-taste-of-tea/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventBOUTIQUETOPRESERVEANDCOLLECTCanadianPremierewithdirectorinattendanceJuly30930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260731T013000Z
 DTEND:20260731T030000Z
 SUMMARY:🍿 REV — Revue Event: BOUTIQUE: TO PRESERVE AND COLLECT - Canadian Premiere with director in attendance!
@@ -2288,8 +2387,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-boutique-to-preserve-and-collect-canadian-premiere-with-director-in-attendance/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreObsessionJuly30940PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260731T014000Z
+DTEND:20260731T034400Z
+SUMMARY:🦊 FOX — Obsession
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxJuly31400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260731T200000Z
 DTEND:20260731T222100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2298,7 +2406,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTerribleThreesJAWS3D1983Presentedin3D35mmJuly31645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260731T224500Z
 DTEND:20260801T003800Z
 SUMMARY:🍿 REV — Terrible Threes: JAWS 3-D (1983) - Presented in 3D & 35mm!
@@ -2308,7 +2416,7 @@ URL:https://revuecinema.ca/films/terrible-threes-jaws-3-d-1983-presented-in-3d-3
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexJuly31700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260731T230000Z
 DTEND:20260801T004500Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2317,7 +2425,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexJuly31930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260801T013000Z
 DTEND:20260801T031500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2327,7 +2435,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreTheRockyHorrorPictureShowwShadowcastJuly31930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260801T013000Z
 DTEND:20260801T032500Z
 SUMMARY:🦊 FOX — The Rocky Horror Picture Show w/Shadowcast!
@@ -2336,7 +2444,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films\, Sing-Along Cinema
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventPUTNEYSWOPE1969BookLaunchPresentedbyKierLaJanisseClintEnnsAugust1300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260801T190000Z
 DTEND:20260801T204000Z
 SUMMARY:🍿 REV — Revue Event: PUTNEY SWOPE (1969) +  Book Launch -  Presented by Kier-La Janisse & Clint Enns
@@ -2345,8 +2453,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-putney-swope-1969-book-launch-presented-by-kier-la-janisse-clint-enns/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatrePersepolisAugust1400PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260801T200000Z
+DTEND:20260801T215000Z
+SUMMARY:🦊 FOX — Persepolis
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust1645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260801T224500Z
 DTEND:20260802T010600Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2355,7 +2472,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust1930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T013000Z
 DTEND:20260802T031500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2365,7 +2482,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust1930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T013000Z
 DTEND:20260802T031500Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2374,7 +2491,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventYOJIMBO1961Presentedon35mmAugust2100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T170000Z
 DTEND:20260802T190500Z
 SUMMARY:🍿 REV — Revue Event:  YOJIMBO (1961) - Presented on 35mm!
@@ -2383,8 +2500,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-film-society-yojimbo-1961/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreSheepintheBoxAugust2330PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260802T193000Z
+DTEND:20260802T215100Z
+SUMMARY:🦊 FOX — Sheep in the Box
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaApparatusTheoryMEDIUMCOOL1969August2400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T200000Z
 DTEND:20260802T220600Z
 SUMMARY:🍿 REV — Apparatus Theory: MEDIUM COOL (1969)
@@ -2393,17 +2519,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/apparatus-theory-medium-cool-1969/
 END:VEVENT
 BEGIN:VEVENT
-UID:FoxTheatreSheepintheBoxAugust2630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+UID:FoxTheatreIWantYourSexAugust2630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T223000Z
-DTEND:20260803T005100Z
-SUMMARY:🦊 FOX — Sheep in the Box
+DTEND:20260803T001500Z
+SUMMARY:🦊 FOX — I Want Your Sex
 LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust2700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260802T230000Z
 DTEND:20260803T004500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2412,17 +2538,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
-UID:FoxTheatreIWantYourSexAugust2915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260803T011500Z
-DTEND:20260803T030000Z
-SUMMARY:🦊 FOX — I Want Your Sex
+UID:FoxTheatreTheMatrixAugust2900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260803T010000Z
+DTEND:20260803T033100Z
+SUMMARY:🦊 FOX — The Matrix
 LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust3630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260803T223000Z
 DTEND:20260804T005100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2431,7 +2557,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust3700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260803T230000Z
 DTEND:20260804T004500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2441,7 +2567,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust3915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260804T011500Z
 DTEND:20260804T030000Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2450,7 +2576,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventYOJIMBO1961Presentedon35mmAugust3930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260804T013000Z
 DTEND:20260804T033500Z
 SUMMARY:🍿 REV — Revue Event:  YOJIMBO (1961) - Presented on 35mm!
@@ -2460,7 +2586,7 @@ URL:https://revuecinema.ca/films/revue-film-society-yojimbo-1961/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust4330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260804T193000Z
 DTEND:20260804T215100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2469,7 +2595,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueFilmSocietyCLASHOFTHETITANS45thAnniversaryScreeningAugust4630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260804T223000Z
 DTEND:20260805T004300Z
 SUMMARY:🍿 REV — Revue Film Society: CLASH OF THE TITANS - 45th Anniversary Screening!
@@ -2478,8 +2604,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-film-society-clash-of-the-titans-45th-anniversary-screening/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatrePersepolisAugust4645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260804T224500Z
+DTEND:20260805T003500Z
+SUMMARY:🦊 FOX — Persepolis
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust4930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260805T013000Z
 DTEND:20260805T031500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2489,7 +2624,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust5330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260805T193000Z
 DTEND:20260805T215100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2498,7 +2633,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveACEINTHEHOLEIntroducedbyBrendanRossAugust5630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260805T223000Z
 DTEND:20260806T003600Z
 SUMMARY:🍿 REV — Heat Wave: ACE IN THE HOLE - Introduced by Brendan Ross
@@ -2507,17 +2642,26 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/heat-wave-ace-in-the-hole-introduced-by-brendan-ross/
 END:VEVENT
 BEGIN:VEVENT
-UID:FoxTheatreIWantYourSexAugust5915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260806T011500Z
-DTEND:20260806T030000Z
+UID:FoxTheatreIWantYourSexAugust5630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260805T223000Z
+DTEND:20260806T001500Z
 SUMMARY:🦊 FOX — I Want Your Sex
 LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreTheMatrixAugust5900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260806T010000Z
+DTEND:20260806T033100Z
+SUMMARY:🦊 FOX — The Matrix
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust5930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260806T013000Z
 DTEND:20260806T031500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2527,7 +2671,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust6630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260806T223000Z
 DTEND:20260807T005100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2536,7 +2680,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaIWantYourSexAugust6700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260806T230000Z
 DTEND:20260807T004500Z
 SUMMARY:🍿 REV — I Want Your Sex
@@ -2546,7 +2690,7 @@ URL:https://revuecinema.ca/films/i-want-your-sex/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust6915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260807T011500Z
 DTEND:20260807T030000Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2555,7 +2699,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaNightmareAlleySUNSHINE2007August6930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260807T013000Z
 DTEND:20260807T033300Z
 SUMMARY:🍿 REV — Nightmare Alley: SUNSHINE (2007)
@@ -2565,7 +2709,7 @@ URL:https://revuecinema.ca/films/nightmare-alley-sunshine-2007/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust7400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260807T200000Z
 DTEND:20260807T222100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2574,7 +2718,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatre2026CatVideoFestAugust7700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260807T230000Z
 DTEND:20260808T002500Z
 SUMMARY:🦊 FOX — 2026 Cat Video Fest
@@ -2582,8 +2726,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreInsomniacFilmFestivalAug7800PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260808T000000Z
+DTEND:20260808T015500Z
+SUMMARY:🌴 PAR — Insomniac Film Festival
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Film Festivals & External Screenings\nTickets: https://paradiseonbloor.com/programs/insomniac-film-festival/
+URL:https://paradiseonbloor.com/programs/insomniac-film-festival/
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust7915PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T011500Z
 DTEND:20260808T030000Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2591,8 +2745,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August7930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260808T013000Z
+DTEND:20260808T031100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaRevueEventTHEBUTTERFLYEFFECT2004August81200PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260808T160000Z
+DTEND:20260808T180800Z
+SUMMARY:🍿 REV — Revue Event: THE BUTTERFLY EFFECT (2004)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/revue-event-the-butterfly-effect-2004/
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust8100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T170000Z
 DTEND:20260808T192100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2601,7 +2775,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThrowbackCinemaTHESECRETGARDEN1993August8300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T190000Z
 DTEND:20260808T205600Z
 SUMMARY:🍿 REV — Throwback Cinema: THE SECRET GARDEN (1993)
@@ -2611,7 +2785,7 @@ URL:https://revuecinema.ca/films/throwback-cinema-the-secret-garden-1993/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatre2026CatVideoFestAugust8400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T200000Z
 DTEND:20260808T212500Z
 SUMMARY:🦊 FOX — 2026 Cat Video Fest
@@ -2620,7 +2794,7 @@ DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTerribleThreesTHEMUMMYTOMBOFTHEDRAGONEMPEROR2008August8600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T220000Z
 DTEND:20260809T000700Z
 SUMMARY:🍿 REV — Terrible Threes: THE MUMMY: TOMB OF THE DRAGON EMPEROR (2008)
@@ -2629,8 +2803,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/terrible-threes-the-mummy-tomb-of-the-dragon-emperor-2008/
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreCandlelightATributetoPinkFloydAug8600PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260808T220000Z
+DTEND:20260808T231500Z
+SUMMARY:🌴 PAR — Candlelight: A Tribute to Pink Floyd
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Candlelight\nTickets: https://feverup.com/m/254768
+URL:https://paradiseonbloor.com/special_events/candlelight-a-tribute-to-pink-floyd/
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust8700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260808T230000Z
 DTEND:20260809T004500Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2638,18 +2822,28 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
-UID:RevueCinemaRevueEventTHEBUTTERFLYEFFECT2004August8900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+UID:ParadiseTheatreCandlelightSoundsofSoulAug8845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260809T004500Z
+DTEND:20260809T020000Z
+SUMMARY:🌴 PAR — Candlelight: Sounds of Soul
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Candlelight\nTickets: https://feverup.com/m/673907
+URL:https://paradiseonbloor.com/special_events/candlelight-sounds-of-soul/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August8900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T010000Z
-DTEND:20260809T030800Z
-SUMMARY:🍿 REV — Revue Event: THE BUTTERFLY EFFECT (2004)
+DTEND:20260809T024100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
 LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
 DESCRIPTION:Revue Cinema
-URL:https://revuecinema.ca/films/revue-event-the-butterfly-effect-2004/
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateTheMidnightRevueNirvannatheBandtheShowtheMovieAugust81159PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T035900Z
 DTEND:20260809T055600Z
 SUMMARY:🍿 REV — The Perfect Date & The Midnight Revue: Nirvanna the Band the Show the Movie
@@ -2658,8 +2852,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/national-canadian-film-day-revue-events-nirvanna-the-band-the-show-the-movie-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August9100PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260809T170000Z
+DTEND:20260809T184100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:FoxTheatre2026CatVideoFestAugust9100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T170000Z
 DTEND:20260809T182500Z
 SUMMARY:🦊 FOX — 2026 Cat Video Fest
@@ -2668,7 +2872,7 @@ DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreSheepintheBoxAugust9330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T193000Z
 DTEND:20260809T215100Z
 SUMMARY:🦊 FOX — Sheep in the Box
@@ -2677,7 +2881,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaBOBFOSSEu2013MORESMOKEPLEASECABARET1972Presentedon35mmAugust9400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T200000Z
 DTEND:20260809T221900Z
 SUMMARY:🍿 REV — BOB FOSSE u2013 MORE SMOKE PLEASE: CABARET (1972) - Presented on 35mm!
@@ -2687,7 +2891,7 @@ URL:https://revuecinema.ca/films/cabaret-1972/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreIWantYourSexAugust9630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T223000Z
 DTEND:20260810T001500Z
 SUMMARY:🦊 FOX — I Want Your Sex
@@ -2696,7 +2900,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDontBeSoPoliticalPAPERMOONAugust9745PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260809T234500Z
 DTEND:20260810T014200Z
 SUMMARY:🍿 REV — Don't Be So Political: PAPER MOON
@@ -2706,7 +2910,7 @@ URL:https://revuecinema.ca/films/dont-be-so-political-paper-moon/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRentalEventLauraTaler2Films30YearsthevillagetrilogyMatryoshkaCrushAugust10645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260810T224500Z
 DTEND:20260811T011500Z
 SUMMARY:🍿 REV — Rental Event: Laura Taler 2 Films 30 Years: the village trilogy + Matryoshka Crush
@@ -2716,7 +2920,7 @@ URL:https://revuecinema.ca/films/rental-event-laura-taler-2-films-30-years-the-v
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatrePeckerAug10830PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260811T003000Z
 DTEND:20260811T021100Z
 SUMMARY:🌴 PAR — Pecker
@@ -2725,8 +2929,28 @@ DESCRIPTION:Paradise Theatre\nSeries: Hear Me Out!\nDirector: John Waters\nTicke
 URL:https://paradiseonbloor.com/movies/pecker/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August10930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260811T013000Z
+DTEND:20260811T031100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August11430PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260811T203000Z
+DTEND:20260811T221100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreMalina4KRestorationAug11600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260811T220000Z
 DTEND:20260812T002000Z
 SUMMARY:🌴 PAR — Malina: 4K Restoration!
@@ -2736,7 +2960,7 @@ URL:https://paradiseonbloor.com/movies/malina-4k-restoration/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveBREAKDOWN1997IntroducedbyVanyaGarrawayAugust11700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260811T230000Z
 DTEND:20260812T004800Z
 SUMMARY:🍿 REV — Heat Wave: BREAKDOWN (1997) - Introduced by Vanya Garraway!
@@ -2746,7 +2970,7 @@ URL:https://revuecinema.ca/films/heat-wave-breakdown-1997-introduced-by-vanya-ga
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreAlienAug11900PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260812T010000Z
 DTEND:20260812T031200Z
 SUMMARY:🌴 PAR — Alien
@@ -2755,8 +2979,27 @@ DESCRIPTION:Paradise Theatre\nSeries: Great Scott\nDirector: Ridley Scott\nTicke
 URL:https://paradiseonbloor.com/movies/alien/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreRestorationTekkonkinkreetAugust11915PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260812T011500Z
+DTEND:20260812T031300Z
+SUMMARY:🦊 FOX — Restoration: Tekkonkinkreet
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaTHEWRONGGIRLSCanadianTheatricalPremierecopresentedbyElevationPicturesPsychOutCinemaAugust11930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260812T013000Z
+DTEND:20260812T032400Z
+SUMMARY:🍿 REV — THE WRONG GIRLS - Canadian Theatrical Premiere - co-presented by Elevation Pictures & Psych-Out Cinema!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/the-wrong-girls-canadian-theatrical-premiere-co-presented-by-elevation-pictures-psych-out-cinema/
+END:VEVENT
+BEGIN:VEVENT
 UID:ParadiseTheatreCrimsonTideAug12600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260812T220000Z
 DTEND:20260813T001100Z
 SUMMARY:🌴 PAR — Crimson Tide
@@ -2766,7 +3009,7 @@ URL:https://paradiseonbloor.com/movies/crimson-tide/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDesigningTheMoviesCHARADE1963New4KRestorationAugust12630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260812T223000Z
 DTEND:20260813T003800Z
 SUMMARY:🍿 REV — Designing The Movies: CHARADE (1963) - New 4K Restoration!
@@ -2775,8 +3018,27 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/designing-the-movies-charade-1963-new-4k-restoration/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreNetworkRestoredAugust12630PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260812T223000Z
+DTEND:20260813T004700Z
+SUMMARY:🦊 FOX — Network – Restored
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August12930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260813T013000Z
+DTEND:20260813T031100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaWeReallyLikeHerWALKINGANDTALKING1996Presentedon35mmAugust13700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260813T230000Z
 DTEND:20260814T004100Z
 SUMMARY:🍿 REV — We Really Like Her: WALKING AND TALKING (1996) - Presented on 35mm!
@@ -2786,7 +3048,7 @@ URL:https://revuecinema.ca/films/we-really-like-her-walking-and-talking-1996-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatre2026CatVideoFestAugust13700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260813T230000Z
 DTEND:20260814T002500Z
 SUMMARY:🦊 FOX — 2026 Cat Video Fest
@@ -2794,8 +3056,27 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreRestorationTekkonkinkreetAugust13900PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260814T010000Z
+DTEND:20260814T025800Z
+SUMMARY:🦊 FOX — Restoration: Tekkonkinkreet
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Films\, New Releases
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaICECREAMMAN2026August13930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260814T013000Z
+DTEND:20260814T031100Z
+SUMMARY:🍿 REV — ICE CREAM MAN (2026)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/ice-cream-man-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventGANDAHAR1987TorontoTheatricalPremiereofNew4KRestorationAugust14700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260814T230000Z
 DTEND:20260815T003800Z
 SUMMARY:🍿 REV — Revue Event: GANDAHAR (1987) - Toronto Theatrical Premiere of New 4K Restoration!
@@ -2805,7 +3086,7 @@ URL:https://revuecinema.ca/films/revue-event-gandahar-1987-toronto-theatrical-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaBIGTROUBLEINLITTLECHINA1986Presentedon35mmAugust14930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260815T013000Z
 DTEND:20260815T032500Z
 SUMMARY:🍿 REV — Drunken Cinema: BIG TROUBLE IN LITTLE CHINA (1986) - Presented on 35mm!
@@ -2814,8 +3095,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/drunken-cinema-big-trouble-in-little-china-1986-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreReelDragLegallyBlondeAugust14930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260815T013000Z
+DTEND:20260815T032100Z
+SUMMARY:🦊 FOX — Reel Drag: Legally Blonde
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaAnimeAtTheRevueTEKKONKINKREET2006New4KRestorationAugust15100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260815T170000Z
 DTEND:20260815T185800Z
 SUMMARY:🍿 REV — Anime At The Revue: TEKKONKINKREET (2006) - New 4K Restoration!
@@ -2825,7 +3115,7 @@ URL:https://revuecinema.ca/films/anime-at-the-revue-tekkonkinkreet-2006-new-4k-r
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventGANDAHAR1987TorontoTheatricalPremiereofNew4KRestorationAugust15400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260815T200000Z
 DTEND:20260815T213800Z
 SUMMARY:🍿 REV — Revue Event: GANDAHAR (1987) - Toronto Theatrical Premiere of New 4K Restoration!
@@ -2834,8 +3124,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-gandahar-1987-toronto-theatrical-premiere-of-new-4k-restoration/
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreCandlelightATributetoFrankSinatraNatKingColeAug15600PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260815T220000Z
+DTEND:20260815T231500Z
+SUMMARY:🌴 PAR — Candlelight: A Tribute to Frank Sinatra & Nat King Cole
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Candlelight\nTickets: https://feverup.com/m/146900
+URL:https://paradiseonbloor.com/special_events/candlelight-a-tribute-to-frank-sinatra-nat-king-cole/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaBlackBeltCinemaTHERAIDTHERAID2DoubleFeatureAugust15630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260815T223000Z
 DTEND:20260816T002600Z
 SUMMARY:🍿 REV — Black Belt Cinema: THE RAID + THE RAID 2 Double Feature!
@@ -2844,8 +3144,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/black-belt-cinema-the-raid-the-raid-2-double-feature/
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreCandlelightATributetoFrankSinatraNatKingColeAug15845PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260816T004500Z
+DTEND:20260816T020000Z
+SUMMARY:🌴 PAR — Candlelight: A Tribute to Frank Sinatra & Nat King Cole
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nSeries: Candlelight\nTickets: https://feverup.com/m/146900
+URL:https://paradiseonbloor.com/special_events/candlelight-a-tribute-to-frank-sinatra-nat-king-cole/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaBlackBeltCinemaTHERAIDTHERAID2DoubleFeatureAugust15855PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260816T005500Z
 DTEND:20260816T034000Z
 SUMMARY:🍿 REV — Black Belt Cinema: THE RAID + THE RAID 2 Double Feature!
@@ -2855,7 +3165,7 @@ URL:https://revuecinema.ca/films/black-belt-cinema-the-raid-the-raid-2-double-fe
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreDoubleFeatureTheWaroftheWorldsTheDaytheEarthCaughtFireAug16130PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260816T173000Z
 DTEND:20260816T210400Z
 SUMMARY:🌴 PAR — Double Feature: The War of the Worlds & The Day the Earth Caught Fire
@@ -2865,7 +3175,7 @@ URL:https://paradiseonbloor.com/programs/double-feature-the-war-of-the-worlds-th
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaBOBFOSSEu2013MORESMOKEPLEASESWEETCHARITY1969August16400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260816T200000Z
 DTEND:20260816T224800Z
 SUMMARY:🍿 REV — BOB FOSSE u2013 MORE SMOKE PLEASE: SWEET CHARITY (1969)
@@ -2875,7 +3185,7 @@ URL:https://revuecinema.ca/films/bob-fosse-more-smoke-please-sweet-charity-1969/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTheStaffPickOfTheMonthALLTHEBEAUTYANDTHEBLOODSHED2022August16730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260816T233000Z
 DTEND:20260817T014700Z
 SUMMARY:🍿 REV — The Staff Pick Of The Month: ALL THE BEAUTY AND THE BLOODSHED (2022)
@@ -2885,7 +3195,7 @@ URL:https://revuecinema.ca/films/the-staff-pick-of-the-month-all-the-beauty-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaAnimeAtTheRevueTEKKONKINKREET2006New4KRestorationAugust17645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260817T224500Z
 DTEND:20260818T004300Z
 SUMMARY:🍿 REV — Anime At The Revue: TEKKONKINKREET (2006) - New 4K Restoration!
@@ -2894,8 +3204,17 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/anime-at-the-revue-tekkonkinkreet-2006-new-4k-restoration/
 END:VEVENT
 BEGIN:VEVENT
+UID:FoxTheatreMalcolmXAugust17700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260817T230000Z
+DTEND:20260818T023700Z
+SUMMARY:🦊 FOX — Malcolm X
+LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
+DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHEBURNING1981Presentedon35mmAugust17930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260818T013000Z
 DTEND:20260818T031600Z
 SUMMARY:🍿 REV — Revue Event: THE BURNING (1981) - Presented on 35mm!
@@ -2905,7 +3224,7 @@ URL:https://revuecinema.ca/films/revue-event-the-burning-1981-presented-on-35mm/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveCOOLHANDLUKE1967IntroducedbyNathalieAtkinsonAugust18630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260818T223000Z
 DTEND:20260819T005200Z
 SUMMARY:🍿 REV — Heat Wave: COOL HAND LUKE (1967) - Introduced by Nathalie Atkinson
@@ -2915,7 +3234,7 @@ URL:https://revuecinema.ca/films/heat-wave-cool-hand-luke-1967-introduced-by-nat
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateTHETEXASCHAINSAWMASSACRE1974August18930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260819T013000Z
 DTEND:20260819T030800Z
 SUMMARY:🍿 REV — The Perfect Date: THE TEXAS CHAINSAW MASSACRE (1974)
@@ -2924,8 +3243,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/the-texas-chainsaw-massacre-1974/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaTheBlackNerdsFOXYBROWN1974New4KRestorationAugust19645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260819T224500Z
+DTEND:20260820T003400Z
+SUMMARY:🍿 REV — The Black Nerds: FOXY BROWN (1974) - New 4K Restoration!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/the-black-nerds-foxy-brown-1974-new-4k-restoration/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaRevueEventWITHDRAWALCanadianTheatricalPremierewithdirectorinattendanceAugust19930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260820T013000Z
 DTEND:20260820T031800Z
 SUMMARY:🍿 REV — Revue Event: WITHDRAWAL - Canadian Theatrical Premiere with director in attendance!
@@ -2935,7 +3264,7 @@ URL:https://revuecinema.ca/films/revue-event-withdrawal-canadian-theatrical-prem
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaPaidInSweatTHEHUNGERGAMES2012August20615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260820T221500Z
 DTEND:20260821T005200Z
 SUMMARY:🍿 REV — Paid In Sweat: THE HUNGER GAMES (2012)
@@ -2945,7 +3274,7 @@ URL:https://revuecinema.ca/films/paid-in-sweat-the-hunger-games-2012/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaFreeMembersOnlyScreeningTRAILERTRASHOZPLOITATIONAugust20930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260821T013000Z
 DTEND:20260821T033500Z
 SUMMARY:🍿 REV — Free Members-Only Screening: TRAILER TRASH: OZPLOITATION
@@ -2955,7 +3284,7 @@ URL:https://revuecinema.ca/films/free-members-only-screening-trailer-trash-ozplo
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust21630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260821T223000Z
 DTEND:20260822T003700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -2964,8 +3293,28 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-screenings-special-dumpster-raccoon-event/
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreChrisHigginsLIVEAug21700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260821T230000Z
+DTEND:20260822T004500Z
+SUMMARY:🌴 PAR — Chris Higgins LIVE!
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nTickets: https://www.ticketmaster.ca/event/100064C43AC54EAA
+URL:https://paradiseonbloor.com/special_events/chris-higgins-live/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaNeonDreamsNOCOUNTRYFOROLDMEN2007New4KRestorationAugust21930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260822T013000Z
+DTEND:20260822T034700Z
+SUMMARY:🍿 REV — Neon Dreams: NO COUNTRY FOR OLD MEN (2007) - New 4K Restoration!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/neon-dreams-no-country-for-old-men-2007-new-4k-restoration/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaStompboxTHESATURDAYMORNINGALLYOUCANEATCEREALCARTOONPARTYSummerEditionAugust221000AM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260822T140000Z
 DTEND:20260822T171500Z
 SUMMARY:🍿 REV — Stompbox: THE SATURDAY MORNING ALL-YOU-CAN-EAT CEREAL CARTOON PARTY (Summer Edition!)
@@ -2975,7 +3324,7 @@ URL:https://revuecinema.ca/films/stompbox-the-saturday-morning-all-you-can-eat-c
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaWhenAliensAttackSLITHER20thAnniversaryScreeningAugust22300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260822T190000Z
 DTEND:20260822T205100Z
 SUMMARY:🍿 REV — When Aliens Attack: SLITHER - 20th Anniversary Screening!
@@ -2985,7 +3334,7 @@ URL:https://revuecinema.ca/films/when-aliens-attack-slither-20th-anniversary-scr
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventCOMEWHATMAYTorontoTheatricalPremierewithwInPersonQALahnaTurnerAugust22545PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260822T214500Z
 DTEND:20260823T001100Z
 SUMMARY:🍿 REV — Revue Event: COME WHAT MAY - Toronto Theatrical Premiere with w/ In-Person Q&A (Lahna Turner)
@@ -2995,7 +3344,7 @@ URL:https://revuecinema.ca/films/revue-event-come-what-may-toronto-theatrical-pr
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust22930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260823T013000Z
 DTEND:20260823T033700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3005,7 +3354,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust23100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260823T170000Z
 DTEND:20260823T190700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3015,7 +3364,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaBOBFOSSEu2013MORESMOKEPLEASELENNY1974TorontoTheatricalPremiereOfNewRestorationAugust23400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260823T200000Z
 DTEND:20260823T220600Z
 SUMMARY:🍿 REV — BOB FOSSE u2013 MORE SMOKE PLEASE: LENNY (1974) - Toronto Theatrical Premiere Of New Restoration!
@@ -3025,7 +3374,7 @@ URL:https://revuecinema.ca/films/bob-fosse-more-smoke-please-lenny-1974-toronto-
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreTallyBrownNewYorkAug23630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260823T223000Z
 DTEND:20260824T002200Z
 SUMMARY:🌴 PAR — Tally Brown\, New York
@@ -3035,7 +3384,7 @@ URL:https://paradiseonbloor.com/movies/tally-brown-new-york/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHighwayToHellMAXIMUMOVERDRIVE40thAnniversaryScreeningAugust23715PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260823T231500Z
 DTEND:20260824T010800Z
 SUMMARY:🍿 REV — Highway To Hell: MAXIMUM OVERDRIVE - 40th Anniversary Screening!
@@ -3045,7 +3394,7 @@ URL:https://revuecinema.ca/films/highway-to-hell-maximum-overdrive-40th-annivers
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust24630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260824T223000Z
 DTEND:20260825T003700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3055,7 +3404,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHighwayToHellJOYRIDE25thAnniversaryScreeningAugust24930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260825T013000Z
 DTEND:20260825T032200Z
 SUMMARY:🍿 REV — Highway To Hell: JOY RIDE - 25th Anniversary Screening!
@@ -3065,7 +3414,7 @@ URL:https://revuecinema.ca/films/highway-to-hell-joy-ride-25th-anniversary-scree
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust25630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260825T223000Z
 DTEND:20260826T003700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3075,7 +3424,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHighwayToHellROADGAMES45thAnniversaryScreeningAugust25930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260826T013000Z
 DTEND:20260826T032600Z
 SUMMARY:🍿 REV — Highway To Hell: ROAD GAMES - 45th Anniversary Screening!
@@ -3085,7 +3434,7 @@ URL:https://revuecinema.ca/films/highway-to-hell-road-games-45th-anniversary-scr
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust26330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260826T193000Z
 DTEND:20260826T213700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3095,7 +3444,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveDELIVERANCE1972IntroducedbyNathanBooneAugust26630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260826T223000Z
 DTEND:20260827T003400Z
 SUMMARY:🍿 REV — Heat Wave : DELIVERANCE (1972) - Introduced by Nathan Boone
@@ -3105,7 +3454,7 @@ URL:https://revuecinema.ca/films/heat-wave-deliverance-1972-introduced-by-nathan
 END:VEVENT
 BEGIN:VEVENT
 UID:ParadiseTheatreSetItOffAug26730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260826T233000Z
 DTEND:20260827T014800Z
 SUMMARY:🌴 PAR — Set It Off
@@ -3115,7 +3464,7 @@ URL:https://paradiseonbloor.com/movies/set-it-off/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHighwayToHellWOLFCREEK2005August26930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260827T013000Z
 DTEND:20260827T032400Z
 SUMMARY:🍿 REV — Highway To Hell: WOLF CREEK (2005)
@@ -3125,7 +3474,7 @@ URL:https://revuecinema.ca/films/highway-to-hell-wolf-creek-2005/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTEENAGESEXANDDEATHATCAMPMIASMAFirstRunscreeningsSpecialDumpsterRaccooneventAugust27300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260827T190000Z
 DTEND:20260827T210700Z
 SUMMARY:🍿 REV — TEENAGE SEX AND DEATH AT CAMP MIASMA (First Run screenings & Special Dumpster Raccoon event)
@@ -3135,7 +3484,7 @@ URL:https://revuecinema.ca/films/teenage-sex-and-death-at-camp-miasma-first-run-
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreBattlesoftheSexesLaCaptiveAugust27630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260827T223000Z
 DTEND:20260828T004300Z
 SUMMARY:🦊 FOX — Battles of the Sexes: La Captive
@@ -3144,7 +3493,7 @@ DESCRIPTION:Fox Theatre\nSeries: All Films
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHoldUpDEBS2004August27645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260827T224500Z
 DTEND:20260828T003100Z
 SUMMARY:🍿 REV — Hold Up: D.E.B.S. (2004)
@@ -3154,7 +3503,7 @@ URL:https://revuecinema.ca/films/hold-up-d-e-b-s-2004/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaStompboxYACHTROCKTHECOMPLETEWEBSERIESu2013wlivesetofsmoothhitsfromDRAGONSOUNDSAugust27930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260828T013000Z
 DTEND:20260828T031500Z
 SUMMARY:🍿 REV — Stompbox: YACHT ROCK: THE COMPLETE WEB SERIES u2013 w/ live set of smooth hits from DRAGON SOUNDS!
@@ -3164,7 +3513,7 @@ URL:https://revuecinema.ca/films/stompbox-yacht-rock-the-complete-web-series-w-l
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMEAugust28645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260828T224500Z
 DTEND:20260829T004100Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3174,7 +3523,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinema35on35TERMINATOR2JUDGMENTDAY1991Presentedon35mmAugust28930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260829T013000Z
 DTEND:20260829T040200Z
 SUMMARY:🍿 REV — 35 on 35: TERMINATOR 2: JUDGMENT DAY (1991) - Presented on 35mm!
@@ -3184,7 +3533,7 @@ URL:https://revuecinema.ca/films/the-perfect-date-terminator-2-judgment-day-1991
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventDREAMSINNIGHTMARESAugust291230PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260829T163000Z
 DTEND:20260829T185300Z
 SUMMARY:🍿 REV — Revue Event: DREAMS IN NIGHTMARES
@@ -3194,7 +3543,7 @@ URL:https://revuecinema.ca/films/revue-event-dreams-in-nightmares/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMEAugust29330PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260829T193000Z
 DTEND:20260829T212600Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3204,7 +3553,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinema35on35TERMINATOR2JUDGMENTDAY1991Presentedon35mmAugust29615PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260829T221500Z
 DTEND:20260830T004700Z
 SUMMARY:🍿 REV — 35 on 35: TERMINATOR 2: JUDGMENT DAY (1991) - Presented on 35mm!
@@ -3214,7 +3563,7 @@ URL:https://revuecinema.ca/films/the-perfect-date-terminator-2-judgment-day-1991
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaMICHAEL2026August29930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260830T013000Z
 DTEND:20260830T035300Z
 SUMMARY:🍿 REV — Drunken Cinema: MICHAEL (2026)
@@ -3224,7 +3573,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-michael-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaBOBFOSSEu2013MORESMOKEPLEASEALLTHATJAZZ19794KRestorationAugust30400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260830T200000Z
 DTEND:20260830T221800Z
 SUMMARY:🍿 REV — BOB FOSSE u2013 MORE SMOKE PLEASE: ALL THAT JAZZ (1979) - 4K Restoration!
@@ -3234,7 +3583,7 @@ URL:https://revuecinema.ca/films/bob-fosse-more-smoke-please-all-that-jazz-1979-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMEAugust30715PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260830T231500Z
 DTEND:20260831T011100Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3244,7 +3593,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMEAugust31645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260831T224500Z
 DTEND:20260901T004100Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3254,7 +3603,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventDREAMSINNIGHTMARESAugust31930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260901T013000Z
 DTEND:20260901T035300Z
 SUMMARY:🍿 REV — Revue Event: DREAMS IN NIGHTMARES
@@ -3264,7 +3613,7 @@ URL:https://revuecinema.ca/films/revue-event-dreams-in-nightmares/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMESeptember1645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260901T224500Z
 DTEND:20260902T004100Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3274,7 +3623,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMESeptember2400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260902T200000Z
 DTEND:20260902T215600Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3284,7 +3633,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaHeatWaveLONESTAR30thAnniversaryScreeningIntroducedbyEmilyGagneSeptember2700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260902T230000Z
 DTEND:20260903T013000Z
 SUMMARY:🍿 REV — Heat Wave: LONE STAR - 30th Anniversary Screening - Introduced by Emily Gagne
@@ -3294,7 +3643,7 @@ URL:https://revuecinema.ca/films/heat-wave-lone-star-30th-anniversary-screening-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMESeptember3315PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260903T191500Z
 DTEND:20260903T211100Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3304,7 +3653,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaWeReallyLikeHerGIRLFRIENDS1978September3700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260903T230000Z
 DTEND:20260904T004300Z
 SUMMARY:🍿 REV — We Really Like Her: GIRLFRIENDS (1978)
@@ -3314,7 +3663,7 @@ URL:https://revuecinema.ca/films/we-really-like-her-girlfriends-1978/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventARMAGEDDONROADTorontoTheatricalPremierewithdirectorcastandcrewinattendanceSeptember3930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260904T013000Z
 DTEND:20260904T031000Z
 SUMMARY:🍿 REV — Revue Event: ARMAGEDDON ROAD - Toronto Theatrical Premiere with director\, cast and crew in attendance!
@@ -3324,7 +3673,7 @@ URL:https://revuecinema.ca/films/revue-event-armageddon-road-toronto-theatrical-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventARMAGEDDONROADTorontoTheatricalPremierewithdirectorcastandcrewinattendanceSeptember4645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260904T224500Z
 DTEND:20260905T002500Z
 SUMMARY:🍿 REV — Revue Event: ARMAGEDDON ROAD - Toronto Theatrical Premiere with director\, cast and crew in attendance!
@@ -3334,7 +3683,7 @@ URL:https://revuecinema.ca/films/revue-event-armageddon-road-toronto-theatrical-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaMEANGIRLS2004September4930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260905T013000Z
 DTEND:20260905T032200Z
 SUMMARY:🍿 REV — Drunken Cinema: MEAN GIRLS (2004)
@@ -3344,7 +3693,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-mean-girls-2004/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHESAMURAIANDTHEPRISONERSeptember5400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260905T200000Z
 DTEND:20260905T224200Z
 SUMMARY:🍿 REV — Revue Event: THE SAMURAI AND THE PRISONER
@@ -3354,7 +3703,7 @@ URL:https://revuecinema.ca/films/revue-event-the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventCOREYFELDMANVSTHEWORLD2025September5630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260905T223000Z
 DTEND:20260906T002300Z
 SUMMARY:🍿 REV — Revue Event: COREY FELDMAN VS. THE WORLD (2025)
@@ -3364,7 +3713,7 @@ URL:https://revuecinema.ca/films/revue-event-corey-feldman-vs-the-world-2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaTheMidnightRevueCANNIBALHOLOCAUSTUncutTorontoTheatricalPremiereofNewRestorationSeptember51159PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260906T035900Z
 DTEND:20260906T054900Z
 SUMMARY:🍿 REV — The Midnight Revue: CANNIBAL HOLOCAUST (Uncut) - Toronto Theatrical Premiere of New Restoration
@@ -3374,7 +3723,7 @@ URL:https://revuecinema.ca/films/the-midnight-revue-cannibal-holocaust-uncut-tor
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMESeptember6700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260906T230000Z
 DTEND:20260907T005600Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3384,7 +3733,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventCOREYFELDMANVSTHEWORLD2025September6930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260907T013000Z
 DTEND:20260907T032300Z
 SUMMARY:🍿 REV — Revue Event: COREY FELDMAN VS. THE WORLD (2025)
@@ -3394,7 +3743,7 @@ URL:https://revuecinema.ca/films/revue-event-corey-feldman-vs-the-world-2025/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaCOYOTEVSACMESeptember7100PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260907T170000Z
 DTEND:20260907T185600Z
 SUMMARY:🍿 REV — COYOTE VS ACME
@@ -3404,7 +3753,7 @@ URL:https://revuecinema.ca/films/coyote-vs-acme/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventTHESAMURAIANDTHEPRISONERSeptember7400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260907T200000Z
 DTEND:20260907T224200Z
 SUMMARY:🍿 REV — Revue Event: THE SAMURAI AND THE PRISONER
@@ -3414,7 +3763,7 @@ URL:https://revuecinema.ca/films/revue-event-the-samurai-and-the-prisoner/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventCOREYFELDMANVSTHEWORLD2025September7730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260907T233000Z
 DTEND:20260908T012300Z
 SUMMARY:🍿 REV — Revue Event: COREY FELDMAN VS. THE WORLD (2025)
@@ -3423,8 +3772,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-corey-feldman-vs-the-world-2025/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaThePerfectDateStarTrekTheMotionPictureSeptember8930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260909T013000Z
+DTEND:20260909T035600Z
+SUMMARY:🍿 REV — The Perfect Date: Star Trek: The Motion Picture
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/the-perfect-date-star-trek-the-motion-picture/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaROADHOUSE1989September11930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260912T013000Z
 DTEND:20260912T033900Z
 SUMMARY:🍿 REV — Drunken Cinema: ROAD HOUSE (1989)
@@ -3434,7 +3793,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-road-house/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaNotSoTerribleTwosOCEANSTWELVE2004September12630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260912T223000Z
 DTEND:20260913T005000Z
 SUMMARY:🍿 REV — (Not-So) Terrible Twos: OCEAN'S TWELVE (2004)
@@ -3443,8 +3802,28 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/not-so-terrible-twos-oceans-twelve-2004/
 END:VEVENT
 BEGIN:VEVENT
+UID:ParadiseTheatreRheostaticsPerformGreatLakeSuitesSep12800PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260913T000000Z
+DTEND:20260913T014500Z
+SUMMARY:🌴 PAR — Rheostatics Perform Great Lake Suites
+LOCATION:Paradise Theatre\, 1006 Bloor St W\, Toronto
+DESCRIPTION:Paradise Theatre\nTickets: https://paradiseonbloor.com/purchase/588811/
+URL:https://paradiseonbloor.com/special_events/rheostatics-perform-great-lake-suites/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaDontBeSoPoliticalNINOTCHKA1939September13645PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260913T224500Z
+DTEND:20260914T005000Z
+SUMMARY:🍿 REV — Don't Be So Political: NINOTCHKA (1939)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/dont-be-so-political-ninotchka-1939/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaFreeMembersOnlyScreeningSECRETSCREENINGSeptember15645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260915T224500Z
 DTEND:20260916T003800Z
 SUMMARY:🍿 REV — Free Members-Only Screening: SECRET SCREENING!
@@ -3454,7 +3833,7 @@ URL:https://revuecinema.ca/films/free-members-only-screening-secret-screening/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDesigningTheMoviesTHEWOMEN1939September17630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260917T223000Z
 DTEND:20260918T005800Z
 SUMMARY:🍿 REV — Designing The Movies: THE WOMEN (1939)
@@ -3464,7 +3843,7 @@ URL:https://revuecinema.ca/films/designing-the-movies-the-women-1939/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventSITUATIONSTorontoTheatricalPremierewithdirectorinattendanceSeptember19600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260919T220000Z
 DTEND:20260919T235700Z
 SUMMARY:🍿 REV — Revue Event: SITUATIONS - Toronto Theatrical Premiere with director in attendance!
@@ -3473,8 +3852,28 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-situations-toronto-theatrical-premiere-with-director-in-attendance/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaTheStaffPickOfTheMonthBUTCHCASSIDYANDTHESUNDANCEKID1969September20700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260920T230000Z
+DTEND:20260921T010600Z
+SUMMARY:🍿 REV — The Staff Pick Of The Month: BUTCH CASSIDY AND THE SUNDANCE KID (1969)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/the-staff-pick-of-the-month-butch-cassidy-and-the-sundance-kid-1969/
+END:VEVENT
+BEGIN:VEVENT
+UID:RevueCinemaWhenAnimalsAttackPHENOMENA1985September22930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20260923T013000Z
+DTEND:20260923T033500Z
+SUMMARY:🍿 REV — When Animals Attack: PHENOMENA (1985)
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/when-animals-attack-phenomena-1985/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaHoldUpJUNO2007September24645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260924T224500Z
 DTEND:20260925T003600Z
 SUMMARY:🍿 REV — Hold Up: JUNO (2007)
@@ -3483,17 +3882,8 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/hold-up-juno-2007/
 END:VEVENT
 BEGIN:VEVENT
-UID:FoxTheatreBookAndFilmClubWomenTalkingSeptember24700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
-DTSTART:20260924T230000Z
-DTEND:20260925T005900Z
-SUMMARY:🦊 FOX — Book And Film Club: Women Talking
-LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
-DESCRIPTION:Fox Theatre\nSeries: All Events\, All Films
-END:VEVENT
-BEGIN:VEVENT
 UID:RevueCinemaThrowbackCinemaMATILDA30thAnniversaryScreeningSeptember26400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260926T200000Z
 DTEND:20260926T215300Z
 SUMMARY:🍿 REV — Throwback Cinema: MATILDA - 30th Anniversary Screening!
@@ -3503,7 +3893,7 @@ URL:https://revuecinema.ca/films/throwback-cinema-matilda-30th-anniversary-scree
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveTHEWAYWEWERE1973September26630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260926T223000Z
 DTEND:20260927T004300Z
 SUMMARY:🍿 REV — Destination Love: THE WAY WE WERE (1973)
@@ -3513,7 +3903,7 @@ URL:https://revuecinema.ca/films/destination-love-the-way-we-were-1973/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaSilentRevueTHECROWD1928TorontoTheatricalPremiereSeptember27400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260927T200000Z
 DTEND:20260927T215300Z
 SUMMARY:🍿 REV — Silent Revue: THE CROWD (1928) - Toronto Theatrical Premiere!
@@ -3523,7 +3913,7 @@ URL:https://revuecinema.ca/films/silent-revue-the-crowd-1928-toronto-theatrical-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDestinationLoveSAVINGFACE2004September27700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20260927T230000Z
 DTEND:20260928T005200Z
 SUMMARY:🍿 REV — Destination Love: SAVING FACE (2004)
@@ -3533,7 +3923,7 @@ URL:https://revuecinema.ca/films/destination-love-saving-face-2004/
 END:VEVENT
 BEGIN:VEVENT
 UID:FoxTheatreBattleofSexesBirthOctober1630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261001T223000Z
 DTEND:20261002T002500Z
 SUMMARY:🦊 FOX — Battle of Sexes: Birth
@@ -3541,8 +3931,18 @@ LOCATION:Fox Theatre\, 2236 Queen St E\, Toronto
 DESCRIPTION:Fox Theatre\nSeries: All Films
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaRevueEventTRICKORTREAT1986Presentedon35mmOctober3930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20261004T013000Z
+DTEND:20261004T032200Z
+SUMMARY:🍿 REV — Revue Event: TRICK OR TREAT (1986) - Presented on 35mm!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/revue-event-trick-or-treat-1986-presented-on-35mm/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaThanksgivingWeekendPRISONERS2013October10600PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261010T220000Z
 DTEND:20261011T004800Z
 SUMMARY:🍿 REV — Thanksgiving Weekend: PRISONERS (2013)
@@ -3552,7 +3952,7 @@ URL:https://revuecinema.ca/films/thanksgiving-weekend-prisoners-2013/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThanksgivingHorrorBLOODRAGE1987October10930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261011T013000Z
 DTEND:20261011T030900Z
 SUMMARY:🍿 REV — Thanksgiving Horror: BLOOD RAGE (1987)
@@ -3562,7 +3962,7 @@ URL:https://revuecinema.ca/films/thanksgiving-horror-blood-rage-1987/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThanksgivingWeekendPLANESTRAINSANDAUTOMOBILESOctober11300PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261011T190000Z
 DTEND:20261011T204800Z
 SUMMARY:🍿 REV — Thanksgiving Weekend: PLANES\, TRAINS AND AUTOMOBILES
@@ -3572,7 +3972,7 @@ URL:https://revuecinema.ca/films/thanksgiving-weekend-planes-trains-and-automobi
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThanksgivingWeekendTHEBIGCHILL4KRestorationOctober12400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261012T200000Z
 DTEND:20261012T220000Z
 SUMMARY:🍿 REV — Thanksgiving Weekend: THE BIG CHILL (4K Restoration!)
@@ -3582,7 +3982,7 @@ URL:https://revuecinema.ca/films/thanksgiving-weekend-the-big-chill-4k-restorati
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThanksgivingHorrorBLOODRAGE1987October12700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261012T230000Z
 DTEND:20261013T003900Z
 SUMMARY:🍿 REV — Thanksgiving Horror: BLOOD RAGE (1987)
@@ -3592,7 +3992,7 @@ URL:https://revuecinema.ca/films/thanksgiving-horror-blood-rage-1987/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventREELFEARTHEEVOLUTIONOFFOUNDFOOTAGEHORRORLecturebyAlexWestOctober13700PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261013T230000Z
 DTEND:20261014T004500Z
 SUMMARY:🍿 REV — Revue Event: REEL FEAR:  THE EVOLUTION OF FOUND FOOTAGE HORROR  - Lecture by Alex West
@@ -3601,8 +4001,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/revue-event-reel-fear-the-evolution-of-found-footage-horror-lecture-by-alex-west/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaRevueEventPARANORMALACTIVITY2007Presentedon35mmOctober13930PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20261014T013000Z
+DTEND:20261014T031100Z
+SUMMARY:🍿 REV — Revue Event: PARANORMAL ACTIVITY (2007) - Presented on 35mm!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/revue-event-paranormal-activity-2007-presented-on-35mm/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaDesigningTheMoviesBURNTOFFERINGS50thAnniversaryScreeningOctober15630PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261015T223000Z
 DTEND:20261016T004100Z
 SUMMARY:🍿 REV — Designing The Movies: BURNT OFFERINGS - 50th Anniversary Screening!
@@ -3612,7 +4022,7 @@ URL:https://revuecinema.ca/films/designing-the-movies-burnt-offerings-50th-anniv
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaRevueEventBEHINDTHEMASKTHERISEOFLESLIEVERNON2006Presentedon35mmOctober21645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261021T224500Z
 DTEND:20261022T003100Z
 SUMMARY:🍿 REV — Revue Event: BEHIND THE MASK: THE RISE OF LESLIE VERNON (2006) - Presented on 35mm!
@@ -3622,7 +4032,7 @@ URL:https://revuecinema.ca/films/revue-event-behind-the-mask-the-rise-of-leslie-
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaSCREAM1996SCREAM7DOUBLEFEATUREOctober23730PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261023T233000Z
 DTEND:20261024T013700Z
 SUMMARY:🍿 REV — Drunken Cinema: SCREAM (1996) & SCREAM 7 DOUBLE FEATURE!
@@ -3632,7 +4042,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-scream-1996-scream-7-double-feat
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaSCREAM1996SCREAM7DOUBLEFEATUREOctober231000PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261024T020000Z
 DTEND:20261024T040900Z
 SUMMARY:🍿 REV — Drunken Cinema: SCREAM (1996) + SCREAM 7 DOUBLE FEATURE!
@@ -3642,7 +4052,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-scream-1996-scream-7-double-feat
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaSilentRevueFAUST100thAnniversaryScreeningOctober25400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261025T200000Z
 DTEND:20261025T221100Z
 SUMMARY:🍿 REV — Silent Revue: FAUST - 100th Anniversary Screening!
@@ -3651,8 +4061,18 @@ DESCRIPTION:Revue Cinema
 URL:https://revuecinema.ca/films/silent-revue-faust-100th-anniversary-screening/
 END:VEVENT
 BEGIN:VEVENT
+UID:RevueCinemaWhenAnimalsAttackANAMERICANWEREWOLFINLONDON1981Presentedon35mmOctober25700PM@toronto-repertory
+DTSTAMP:20260711T182532Z
+DTSTART:20261025T230000Z
+DTEND:20261026T005200Z
+SUMMARY:🍿 REV — When Animals Attack: AN AMERICAN WEREWOLF IN LONDON (1981) - Presented on 35mm!
+LOCATION:Revue Cinema\, 400 Roncesvalles Ave\, Toronto
+DESCRIPTION:Revue Cinema
+URL:https://revuecinema.ca/films/when-animals-attack-an-american-werewolf-in-london-1981-presented-on-35mm/
+END:VEVENT
+BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateTHECROW19944KRestorationOctober30645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261030T224500Z
 DTEND:20261031T004200Z
 SUMMARY:🍿 REV — The Perfect Date: THE CROW (1994) - 4K Restoration!
@@ -3662,7 +4082,7 @@ URL:https://revuecinema.ca/films/the-perfect-date-the-crow-30th-anniversary-scre
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThrowbackCinemaHOCUSPOCUS1993October31400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261031T200000Z
 DTEND:20261031T215100Z
 SUMMARY:🍿 REV — Throwback Cinema: HOCUS POCUS (1993)
@@ -3672,7 +4092,7 @@ URL:https://revuecinema.ca/films/hocus-pocus/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaThePerfectDateHALLOWEEN1978October31645PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261031T224500Z
 DTEND:20261101T011500Z
 SUMMARY:🍿 REV — The Perfect Date: HALLOWEEN (1978)
@@ -3682,7 +4102,7 @@ URL:https://revuecinema.ca/films/the-perfect-date-halloween-1978/
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaDrunkenCinemaHALLOWEENH20TWENTYYEARSLATER1998October31930PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261101T013000Z
 DTEND:20261101T031100Z
 SUMMARY:🍿 REV — Drunken Cinema: HALLOWEEN H20: TWENTY YEARS LATER (1998)
@@ -3692,7 +4112,7 @@ URL:https://revuecinema.ca/films/drunken-cinema-halloween-h20-twenty-years-later
 END:VEVENT
 BEGIN:VEVENT
 UID:RevueCinemaSilentRevueHEWHOGETSSLAPPED1924November29400PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261129T210000Z
 DTEND:20261129T222700Z
 SUMMARY:🍿 REV — Silent Revue: HE WHO GETS SLAPPED (1924)
@@ -3702,7 +4122,7 @@ URL:https://revuecinema.ca/films/silent-revue-he-who-gets-slapped-1924/
 END:VEVENT
 BEGIN:VEVENT
 UID:TIFFLightboxJointheTIFFNewsletterDec191200PM@toronto-repertory
-DTSTAMP:20260707T140540Z
+DTSTAMP:20260711T182532Z
 DTSTART:20261219T170000Z
 DTEND:20261219T193000Z
 SUMMARY:🧊 TIF — Join the TIFF Newsletter
